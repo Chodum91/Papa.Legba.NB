@@ -1375,3 +1375,28 @@ On Sat, 13 May 2023 at 08:59, Papa Legba.N.B <bbrainwizzard.nb@gmail.com> wrote:
 > > > clipboard-write; encrypted-media; picture-in-picture;
 > > > web-share"></iframe>
 > > Send
+https://earth.google.com/web/search/Mike%27s+Truck+Services,+214+N+Main+St,+Millbury,+MA+01527,+United+States/@42.20222418,-71.77459896,127.19211195a,267.32102091d,35y,0h,0t,0r/data=CigiJgokCeqs3GAifjpAEe2s3GAifjrAGbnVWM5s3T9AIYPVAWjbXlPAMikKJwolCiExUGhUcmtEdDNzTHY1V0V2cVlKc1VDSGFpd1dsaGhCUlMgAQ
+
+May be an image of fog, horizon, tree and grass
+Loading...
+
+© Alfons Puertas
+
+Vallvidrera - el Tibidabo i les Planes, Barcelona, Barcelona, Spain
+
+Latitude: 41° 25' 6'' N
+
+Longitude: 2° 7' 27'' E
+
+13 August 2014 1230 (Local Time)
+Camera direction: towards E
+
+Image P/S code:
+
+Image I.D.: 4781
+
+Images & related info
+Other Images
+Images of 1987 edition
+
+https://www.facebook.com/profile.php?id=100092377432978
