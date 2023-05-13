@@ -447,3 +447,820 @@ https://m.facebook.com/story.php?story_fbid=pfbid037wLzqsTqChiXnwYEgKgAXoERW9jo8
          vv Copyright © 1999 – 2023 Google
 
 https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1V4U1Rgis9a-xLcDAsRjUl6kuw8YLsKlR_Qv_evgOAw8DTce0ojPKABxkkbsHT_lkG8KVhzD5BBKvtkM4-CUZl7o8ys4rozYcYhXJl82X3fwX6qfTp8_VVeefZUXYrmMrQWZ4keE0Vc0OuZ5K3s0fiZ0jbVFF9NcJmzIx3zaO8mIJ72tm46of1Ijh/s2532/IMG_0196.png%22
+https://www.facebook.com/profile.php?id=100000591586134/https://www.facebook.com/demaurice.ward/https
+  "ns": "yt",
+  "el": "embedded",
+  "cpn": "qqPO3pF0yFQ1c3p5",
+  "ver": 2,
+  "cmt": "0",
+  "fs": "0",
+  "rt": "649.502",
+  "euri": "https://mail.google.com/",
+  "lact": 0,
+  "cl": "530756126",
+  "mos": 0,
+  "state": "80",
+  "volume": 100,
+  "cbrand": "google",
+  "cbr": "Chrome",
+  "cbrver": "112.0.0.0",
+  "c": "WEB_EMBEDDED_PLAYER",
+  "cver": "1.20230509.02.00",
+  "cplayer": "UNIPLAYER",
+  "cmodel": "chromebook",
+  "cos": "CrOS",
+  "cosver": "14541.0.0",
+  "cplatform": "DESKTOP",
+  "epm": 1,
+  "hl": "en_GB",
+  "cr": "CA",
+  "len": "0",
+  "fexp": "23858057,23983296,24004644,24007246,24080738,24135310,24208764,24415864,24439361,24468691,24488210,24516157,24532854,24537429,24556992,39323074",
+  "size": "867:485",
+  "inview": "0",
+  "muted": "0",
+  "conn": "3",
+  "docid": "wLoWd2KyUro",
+  "vct": "0.000",
+  "vd": "NaN",
+  "vpl": "",
+  "vbu": "",
+  "vpa": "1",
+  "vsk": "0",
+  "ven": "0",
+  "vpr": "1",
+  "vrs": "0",
+  "vns": "0",
+  "vec": "null",
+  "vemsg": "",
+  "vvol": "1",
+  "vdom": "1",
+  "vsrc": "0",
+  "vw": "0",
+  "vh": "0",
+  "debug_error": "{\"errorCode\":\"auth\",\"errorDetail\":\"0\",\"errorMessage\":\"Video unavailable\",\"Km\":\"This video contains content from SME, who has blocked it from display on this website or application\\n<a href='http://www.youtube.com/watch?v=wLoWd2KyUro&feature=emb_err_woyt' target='_blank'>Watch on YouTube</a>\",\"zH\":\"0;a6s.0\",\"wF\":2,\"cpn\":\"qqPO3pF0yFQ1c3p5\"}",
+  "relative_loudness": "NaN",
+  "user_qual": 0,
+  "release_version": "youtube.player.web_20230509_02_RC00",
+  "debug_videoId": "wLoWd2KyUro",
+  "0sz": "true",
+  "op": "",
+  "yof": "true",
+  "dis": "",
+  "gpu": "Mesa_Intel(R)_UHD_Graphics_(JSL)",
+  "debug_playbackQuality": "unknown",
+  "debug_date": "Sat May 13 2023 13:07:52 GMT-0300 (Atlantic Daylight Time)"
+}
+---------- Forwarded message ---------
+From: Papa Legba.N.B <bbrainwizzard.nb@gmail.com>
+Date: Sat, 13 May 2023 at 12:47
+Subject: Fwd: subliminal
+To: Papa Legba.N.B <bbrainwizzard.nb@gmail.com>
+
+
+https://drive.google.com/odp/odp_serviceworker.js?xhrRoot=%2F_%2FDriveEcmOneDetailsPaneUi&mssRowKey=boq-drive.DriveEcmOneDetailsPaneUi.en_AU.PEYpczjR8TI.es5.O&buildLabel=boq_driveuiserver_20230427.02_p
+https://drive.google.com/drive/serviceworker.js?ouid=u7c6ac0f9ee2164da:
+https://globalnews.ca/serviceworker.js?appId=8beb7996-b996-4ce8-a474-d488ab96be6b&sdkVersion=151601Console:
+{"lineNumber":0,"message":"Service Worker was updated because \"Update
+on reload\" was checked in the DevTools Application
+panel.","message_level":2,"sourceIdentifier":7,"sourceURL":""}
+Console: {"lineNumber":0,"message":"Uncaught (in promise)
+NotSupportedError: Failed to enable or disable navigation preload: The
+user denied permission to use Service
+Worker.","message_level":3,"sourceIdentifier":1,"sourceURL":"https://www.youtube.com/sw.js"}Client:
+ID: 1f330f1a-61e6-4afb-a916-95b1dff2c691
+URL: https://www.facebook.com/sem_campaigns/sem_pixel_test/?category=1&src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&subcategory=control&ext=1684235617&hash=AeRZa_lc0Pan2wVgHhQ
+Client:
+ID: 363ada42-6f59-4128-b771-83fffb6ec3e5
+URL: https://www.facebook.com/sem_campaigns/sem_pixel_test/?category=31&src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3Djl5HCKuPhfgDENyvw9oD%26guid%3DON%26script%3D0&subcategory=pixel_incrementality_group10p_test%3A0&ext=1684238826&hash=AeSsWmWImLt0070Pzfs
+Client:
+ID: 38d992e1-bec2-49fe-8c30-b0a56fc1a7c9
+URL: https://www.facebook.com/photo/?fbid=118511687904745&set=pb.100092377432978.-2207520000.
+Client:
+ID: 3eefe1dd-a254-4510-8fb0-a23a50be8315
+URL: https://www.facebook.com/sem_campaigns/sem_pixel_test/?category=1&src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&subcategory=control&ext=1684228186&hash=AeTHohI2yByjm-ZRaGY
+Client:
+ID: 474c347f-fe9f-4f0a-97c6-55c2c113c249
+URL: https://www.facebook.com/sem_campaigns/sem_pixel_test/?category=1&src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DWu-ZCMSIzlwQ3K_D2gM%26guid%3DON%26script%3D0&subcategory=control&ext=1684238826&hash=AeQD84oskqExYR70r30
+Client:
+ID: 6e10d7cf-f7bf-4180-b94e-c4f78868aed1
+URL: https://www.facebook.com/sem_campaigns/sem_pixel_test/?category=31&src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3Djl5HCKuPhfgDENyvw9oD%26guid%3DON%26script%3D0&subcategory=pixel_incrementality_group10p_test%3A0&ext=1684228186&hash=AeRr0-bLHy_7HPxcatI
+Client:
+ID: 7fcdca30-cfb6-42e3-a76a-9c9c58dedf98
+URL: https://www.facebook.com/reels/create/?surface=ADDL_PROFILE_PLUS
+Client:
+ID: 8fefb868-2e5b-40a8-865e-3afd1e946b08
+URL: https://www.facebook.com/permalink.php?story_fbid=118638467892067&id=100092377432978
+Client:
+ID: cef770f3-8b0e-4f7d-87e3-e73a42219c6e
+URL:
+ID: d555b69b-19e7-4d17-a3a0-aed6c8542425
+URL: https://music.youtube.com/watch?v=wLoWd2KyUro&list=RDAMVM1sdKWB_8C1k
+ID: 5ebb67f5-81a8-4a05-a2ee-35d22737dedf
+URL: https://mail.google.com/mail/u/0/#inbox/QgrcJHrhwLkQHsVsdWPqgkHNbzWDBZGMNlBt:
+https://drive.google.com/drive/serviceworker_root.js?ouid=u7c6ac0f9ee2164da
+Console: {"lineNumber":0,"message":"Service Worker was updated because
+\"Update on reload\" was checked in the DevTools Application
+panel.","message_level":2,"sourceIdentifier":7,"sourceURL":""} ID: 51
+Scope: https://business.facebook.com/
+Registration ID: 32
+Navigation preload enabled: true
+Navigation preload header length: 16
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: https://business.facebook.com/sw?s=push
+Version ID: 102
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Client:
+ID: 5a482b9d-f9dc-4edb-b959-0012d1f57db6
+URL: https://business.facebook.com/latest/inbox/facebook?asset_id=102638082837332&bpn_id=192000497109026&nav_ref=redirect_biz_inbox_comet_profile_plus_ap_page_inbox_message_button&mailbox_id=&selected_item_id=102707709497036
+Client:
+ID: 6cd50382-0f7d-4dcf-b472-2c8a6566e6f9
+URL: https://business.facebook.com/live/producer/1368214430416740/?entry_point=live_producer_broadcast_back
+
+---------- Forwarded message ---------
+From: Papa Legba.N.B <bbrainwizzard.nb@gmail.com>
+Date: Sat, 13 May 2023 at 09:13
+Subject: Re: subliminal
+To: Papa Legba.N.B <bbrainwizzard.nb@gmail.com>
+
+
+https://www.google.com/search?q=%40videojs%2Fvhs-utils%2Fdist%2Fcontainers%27+is+imported+by+node_modules%5Cvideo.js%5Cdist%5Cvideo.es.js%2C+but+could+not+be+resolved+%E2%80%93+treating+it+as+an+external+dependency+%27%40videojs%2Fvhs-utils%2Fdist%2Fbyte-helpers%27+is+imported+by+node_modules%5Cvideo.js%5Cdist%5Cvideo.es.js%2C+but+could+not+be+resolved+%E2%80%93+treating+it+as+an+external+dependency+No+name+was+provided+for+external+module+%27%40videojs%2Fvhs-utils%2Fdist%2Fcontainers%27+in+output.globals+%E2%80%93+guessing+%27containers%27+No+name+was+provided+for+external+module+%27%40videojs%2Fvhs-utils%2Fdist%2Fbyte-helpers%27+in+output.globals+%E2%80%93+guessing+%27byteHelpers%27&rlz=1CADALK_enCA1057&sourceid=chrome&ie=UTF-8
+
+On Sat, 13 May 2023 at 08:59, Papa Legba.N.B <bbrainwizzard.nb@gmail.com> wrote:
+>
+> <style type="text/css">
+> #control_container {
+> padding: 6px 8px;
+> }
+> #thumb-item-container {
+> /****** width: 1036px; need dynamic calculate ? ******/
+> padding: 0px;
+> margin: 0px;
+> margin-left: 0px;
+> }
+> #thumb-item-container li {
+> display: inline-block;
+> height: 80px;
+> margin-right: 10px;
+> margin-bottom: 10px;
+> float: left;
+> }
+> #thumb-item-container li a img {
+> border: 2px solid #999999;
+> height: 80px;
+> opacity: 0.5;
+> filter: alpha(opacity=50);
+> }
+> #thumb-item-container li.active a img, #thumb-item-container li
+> a:hover img, #thumb-item-container li a:focus img {
+> border: 2px solid #000000;
+> opacity: 1;
+> filter: alpha(opacity=100);
+> /*border: 2px solid #000000;
+> -webkit-box-shadow: 5px 5px 5px 0px rgba(204,204,204,1);
+> -moz-box-shadow: 5px 5px 5px 0px rgba(204,204,204,1);
+> box-shadow: 5px 5px 5px 0px rgba(204,204,204,1);*/
+> }
+> .img_desc, .img_id {
+> display: none;
+> }
+> #main_content {
+> /*padding: 0px 12px;*/
+> }
+> #main_content a:hover, #main_content a:focus {
+> text-decoration: underline;
+> }
+> #main_img {
+> /*position: absolute;*/
+> /*left: -9999px;*/
+> /* For Tablet version
+> width: 95%;
+> */
+> /* For Desktop version */
+> /*max-width: 895px;
+> max-height: 650px;*/
+> /**/
+> }
+> #canvas {
+> /*max-height: 650px;*/
+> z-index: 999999;
+> }
+> .img_title {
+> font-size: 100%;
+> }
+> .img_identifier, .img_desc_taken_by, .img_desc_loc, .img_desc_lat,
+> .img_desc_lng, .img_desc_photo_date, .img_desc_dir, .img_cloudcode {
+> font-size: 86%;
+> font-style: italic;
+> }
+> .img_identifier {
+> margin-top: 12px;
+> }
+> .main_img_desc {
+> padding-top: 8px;
+> }
+> .main_img_desc p {
+> padding: 2px 18px;
+> margin: 0px;
+> }
+> .btn_left_arrow, .btn_right_arrow {
+> display: none;
+> position: fixed;
+> z-index: 999;
+> height: 80px;
+> padding: 15px 10px;
+> top: 45%;
+> font-weight: bold;
+> line-height: 50px;
+> background-color: rgba(0, 0, 0, 0.4);
+> color: #FFFFFF;
+> text-decoration: none;
+> font-size: 150%;
+> }
+> .btn_left_arrow {
+> left: 8px;
+> -webkit-border-top-right-radius: 6px;
+> -webkit-border-bottom-right-radius: 6px;
+> -moz-border-radius-topright: 6px;
+> -moz-border-radius-bottomright: 6px;
+> border-top-right-radius: 6px;
+> border-bottom-right-radius: 6px;
+> }
+> .btn_right_arrow {
+> right: 8px;
+> -webkit-border-top-left-radius: 6px;
+> -webkit-border-bottom-left-radius: 6px;
+> -moz-border-radius-topleft: 6px;
+> -moz-border-radius-bottomleft: 6px;
+> border-top-left-radius: 6px;
+> border-bottom-left-radius: 6px;
+> }
+> #btn-screenfull-v1 {
+> margin-left: 20px;
+> }
+> [class*="annotation-"] {
+> position: absolute;
+> z-index: 10;
+> border: 3px solid #FF0000;
+> border-top-left-radius: inherit;
+> border-top-right-radius: inherit;
+> background-color: rgba(255,255,255,0.01);
+> display: none;
+> }
+> [class*="image-annotate-note"] {
+> background: #333333 none repeat scroll 0 0;
+> border: solid 2px #FFFF00;
+> color: #FFF;
+> font-size: 12px;
+> max-width: 200px;
+> padding: 3px 7px;
+> position: absolute;
+> font-family: 'OpenSans Regular';
+> display: none;
+> }
+> #meta_container {
+> padding-bottom: 0px;
+> padding-top: 6px;
+> }
+> #meta_container p, #meta_container_left p, #meta_container_right p {
+> margin: 3px 0px;
+> }
+> #desc_container {
+> /*max-height: 400px;*/
+> overflow-y: auto;
+> overflow-x: hidden;
+> }
+> .imgviewer_remark {
+> padding-bottom: 6px;
+> font-size: small;
+> color: #D70000;
+> }
+> #btn-screenfull-v1 {
+> width: 134px;
+> height: 32px;
+> background: url('../images/english/enlarge.png') top left no-repeat;
+> border: none;
+> margin-left: 0px;
+> margin-top: -10px;
+> }
+> .btn-img-type {
+> font-size: 11px;
+> height: 18px;
+> line-height: 13px;
+> display: block;
+> margin-bottom: 7px;
+> border: none;
+> cursor: pointer;
+> }
+> .btn-img-type.active, .btn-img-type:hover, .btn-img-type:focus {
+> background-color: #014E9E;
+> color: #FFFFFF;
+> }
+> .thumb_show {
+> display: inline-block!important;
+> }
+> .thumb_hidden {
+> display: none!important;
+> }
+> </style>
+> <script type="text/javascript"
+> src="../components/watermark/jquery.watermark.js"></script>
+> <script type="text/javascript">
+> var btn_lock = false;
+> var func_var = [];
+> //func_var[1] = 'first';
+> func_var[1] = 'hori=1';
+> var prev_idx = 0;
+> var next_idx = 2;
+> function prev() {
+> if(prev_idx != 0) {
+> var item = func_var[prev_idx].split("=");
+> showContent(prev_idx, item[0], item[1]);
+> }
+> }
+> function next() {
+> if(next_idx != func_var.length) {
+> var item = func_var[next_idx].split("=");
+> showContent(next_idx, item[0], item[1]);
+> }
+> }
+> function goPrevItem() {
+> if(btn_lock) return;
+> btn_lock = true;
+>
+> var thumb_img = $('#thumb-item-container li a img');
+> var n_img = null;
+> for(var i = thumb_img.length - 1; i >= 0; i--) {
+> if($(thumb_img[i]).position().left < 0) {
+> n_img = $(thumb_img[i]);
+> break;
+> }
+> }
+> if(n_img != null) {
+> var move = 0 - n_img.position().left + 2;
+> $('#thumb-item-container').animate({'margin-left': "+="+move}, 240, function(){
+> btn_lock = false;
+> });
+> } else {
+> btn_lock = false;
+> }
+> }
+> function goNextItem() {
+> if(btn_lock) return;
+> btn_lock = true;
+>
+> var thumb_img = $('#thumb-item-container li a img');
+> var n_img = null;
+> for(var i = 0; i < thumb_img.length; i++) {
+> if($(thumb_img[i]).position().left + $(thumb_img[i]).width() + 12 >
+> $('.thumb-mask').width()) {
+> n_img = $(thumb_img[i]);
+> break;
+> }
+> }
+> if(n_img != null) {
+> var move = n_img.position().left + n_img.width() + 17 -
+> $('.thumb-mask').width();
+> $('#thumb-item-container').animate({'margin-left': "-="+move}, 240, function(){
+> btn_lock = false;
+> });
+> } else {
+> btn_lock = false;
+> }
+> }
+> var current_content_id = 0;
+> var current_type = 'pnri';
+> function showContent(content_id, cat, is_1st) {
+> if(is_1st != 1) $('li.active').removeClass('active');
+> current_content_id = content_id;
+> $('#canvas').remove();
+> if(cat == 'hori') {
+> $('#main_img').css({'position':'relative'});
+> $('#img_container').removeClass('col-4').addClass('col-7');
+> $('#meta_container').removeClass('col-8').addClass('col-5');
+> $('#desc_container').removeClass('col-8').addClass('col-5');
+> //$('#control_container').removeClass('col-8').addClass('col-12');
+> }
+> if(cat == 'vert') {
+> $('#main_img').css({'position':'relative'});
+> $('#img_container').removeClass('col-7').addClass('col-4');
+> $('#meta_container').removeClass('col-5').addClass('col-8');
+> $('#desc_container').removeClass('col-5').addClass('col-8');
+> //$('#control_container').removeClass('col-12').addClass('col-8');
+> }
+>
+> $('#main_img').attr('src', $('#img'+content_id).attr('src'));
+> //$('#main_content').html($('#desc'+content_id).html());
+>
+> var content_desc = $('#desc'+content_id).html();
+> /*
+> // For text checking only (20170314) rollback before launch
+> content_desc = content_desc.replace(/&&/g, '<mark>&&</mark>');
+> content_desc = content_desc.replace(/&amp;/g, '<mark>&amp;</mark>');
+> content_desc = content_desc.replace(/@/g, '<mark>@</mark>');
+> content_desc = content_desc.replace(/&commat;/g, '<mark>&commat;</mark>');
+> content_desc = content_desc.replace(/%/g, '<mark>%</mark>');
+> content_desc = content_desc.replace(/&percnt;/g, '<mark>&percnt;</mark>');
+> content_desc = content_desc.replace(/#/g, '<mark>#</mark>');
+> content_desc = content_desc.replace(/&num;/g, '<mark>&num;</mark>');
+> */
+>
+> $('#main_content').html(content_desc);
+>
+> $('#main_taken_by').html($('#takenby'+content_id).html());
+> $('#main_loc').html($('#loc'+content_id).html());
+> $('#main_lat').html($('#lat'+content_id).html());
+> $('#main_lng').html($('#lng'+content_id).html());
+> $('#main_photo_date').html($('#photodate'+content_id).html());
+> $('#main_dir').html($('#dir'+content_id).html());
+> $('#main_cloudcode').html($('#cloudcode'+content_id).html());
+> $('#main_iden').html($('#imgiden'+content_id).html());
+> $('#main_id').html($('#imgid'+content_id).html());
+> /*if(is_1st == 1) {
+> $('.img_identifier').css('display', 'block');
+> } else {
+> $('.img_identifier').css('display', 'none');
+> }*/
+>
+> if(is_1st > 1) {
+> $('#meta_container').css('display', 'none');
+> $('#desc_container').css('display', 'none');
+> } else {
+> $('#meta_container').css('display', 'block');
+> $('#desc_container').css('display', 'block');
+> }
+>
+> prev_idx = content_id - 1;
+> next_idx = content_id + 1;
+> updateArrowStatus();
+> $('.btn_left_arrow, .btn_right_arrow').css('display','none');
+> /*if(func_var.length - 1 >= 6) {
+> $('#btn-prev, #btn-next').css('display','block');
+> }*/
+>
+> $('#div_loading').css('display','none');
+> var desc_height = $('#img_container').height() - $('#meta_container').height();
+> if(desc_height < 280) desc_height = 280;
+> $('#desc_container').css({'max-height':desc_height+'px'});
+>
+> var clicked_type = "";
+> if($('#img'+content_id).parents('li').hasClass('pnri')) clicked_type = "pnri";
+> if($('#img'+content_id).parents('li').hasClass('seci')) clicked_type = "seci";
+> if($('#img'+content_id).parents('li').hasClass('pri')) clicked_type = "pri";
+> if(current_type != clicked_type) {
+> current_type = clicked_type;
+> $('.btn-'+current_type).click();
+> }
+>
+>
+> // Modified for showing video in "Other Images"
+> if($('#main_img').parent().is("a")) {
+> $('.btn-video').remove();
+> $('#main_img').unwrap();
+> }
+>
+> if(content_id && $('#img'+content_id).data('is_vid') == "1"){
+> showPlayButtonOnImage(is_1st, $('#img'+content_id).data('vid_filename'));
+> }
+> }
+> function updateArrowStatus() {
+> $('.btn_left_arrow, .btn_right_arrow').css('display','block');
+> if(prev_idx == 0) $('.btn_left_arrow').css('display','none');
+> if(next_idx == func_var.length) $('.btn_right_arrow').css('display','none');
+> }
+> function closeFullScreenImg() {
+> $('#full_screen_image').remove();
+> $('body').css('overflow-y','auto');
+> }
+> $('#image_viewer_container').mouseover(function() {
+> updateArrowStatus();
+> });
+> $('#image_viewer_container').mouseout(function() {
+> $('.btn_left_arrow, .btn_right_arrow').css('display','none');
+> });
+> function createCanvasIfNotExist() {
+> $('#img_container').append('<div id="canvas"></div>');
+> $('#main_img').css({'position':'absolute'});
+> $('#canvas').css({
+> 'width': $('#main_img').width(),
+> 'height': $('#main_img').height(),
+> 'display': 'block',
+> 'position': 'relative'
+> });
+> }
+> function setEnlargeButton() {
+> $('#cboxTitle').html('<button id="btn-screenfull-v1"></button>');
+>
+> $('#btn-screenfull-v1').click(function() {
+> $('body').append('<div id="full_screen_image"><div style="display:
+> block; float: right; padding: 12px;"><a style="display: block; color:
+> #FFFFFF; text-align: right;" href="javascript:void(0);"
+> onClick="closeFullScreenImg();">[Close]</a><a style="display: block;
+> color: #FFFFFF; text-align: right; padding-top: 6px;"
+> href="'+$('#main_img').attr('src').replace("compressed",
+> "original")+'" download>[Download]</a></div><img
+> id="full_screen_image_src" src="" alt="" /></div>');
+> $('#full_screen_image').css({'position': 'absolute', 'z-index':
+> 999999, 'background-color': 'rgba(0, 0, 0, 1)', 'top':
+> $(document).scrollTop(), 'left': 0, 'width': '100%', 'height': '100%',
+> 'text-align': 'center'});
+> $('#full_screen_image_src').attr('src',
+> $('#main_img').attr('src').replace("compressed", "original"));
+> $('#full_screen_image_src').css({'height': $(window).height(),
+> 'margin': '0px auto'});
+> });
+> }
+> function showThumb(classname) {
+> $('li.pnri, li.seci,
+> li.pri').removeClass('thumb_show').addClass('thumb_hidden');
+> $('.btn-pnri, .btn-seci, .btn-pri').removeClass('active');
+> $('li.'+classname).removeClass('thumb_hidden').addClass('thumb_show');
+> $('.btn-'+classname).addClass('active');
+> }
+> function showPlayButtonOnImage(is_1st, vid_filename) {
+> if($('#main_img').parent().is("a")) {
+> if(is_1st != 1) {
+> $('.btn-video').remove();
+> $('#main_img').unwrap();
+> }
+> } else {
+> if(is_1st == 1) {
+> $('#main_img').wrap('<a id="btn-video" href="../images/compressed/"
+> target="_blank" rel=\"noopener noreferrer\"></a>');
+> $('#btn-video').prepend('<img class="btn-video"
+> src="../images/btn-play.png" alt="Play" style="opacity:0.8" />');
+> }else if(vid_filename != ""){
+> $('#main_img').wrap('<a id="btn-video" href="../images/compressed/' +
+> vid_filename + '" target="_blank" rel=\"noopener noreferrer\"></a>');
+> $('#btn-video').prepend('<img class="btn-video"
+> src="../images/btn-play.png" alt="Play" style="opacity:0.8" />');
+> }
+> }
+>
+>
+> }
+> $(document).ready(function() {
+> setTimeout(function(){showContent(1, 'hori', 1);setEnlargeButton();},1800);
+>
+> if($('li.pnri').length == 0) $('.btn-pnri').css('display', 'none');
+> if($('li.seci').length == 0) $('.btn-seci').css('display', 'none');
+> if($('li.pri').length == 0) $('.btn-pri').css('display', 'none');
+>
+> $('#main_img').watermark({text: $('#main_taken_by').html(), gravity:
+> 'br', opacity:0.9, textSize: 56, textWidth:
+> ($('#main_taken_by').html().length * 28), margin: 5, flip: true });
+> if($('#imgiden1').html() != '' && $('#takenby1').html()){
+> $('#img1').watermark({text: $('#takenby1').html(), gravity: 'br',
+> opacity:0.9, textSize: 49, textWidth: ($('#takenby1').html().length *
+> 0.7 * 49), margin: 5, flip: true });
+> }
+>
+> });
+> </script>
+> <script type="text/javascript">
+> var annotation_ary = [], curr_num = null;
+> function showAnnotation(num, imgid) {
+> if($('#canvas').length == 0) createCanvasIfNotExist();
+> $('#canvas').empty();
+> if(curr_num != num) {
+> var id_set = num.split(",");
+> for(var i = 0; i < id_set.length; i++) {
+> var sel_annotation = annotation_ary[current_content_id][id_set[i]];
+> var delta = $('#canvas').width() / sel_annotation[0];
+> var toppos = sel_annotation[2] * delta;
+> var leftpos = sel_annotation[3] * delta;
+> var w = sel_annotation[4] * delta;
+> var h = sel_annotation[5] * delta;
+> $('#canvas').append('<div class="annotation-'+(i+1)+'"></div>');
+> $('#canvas').append('<div
+> class="image-annotate-note">'+sel_annotation[6]+'</div>');
+> $('.annotation-'+(i+1)).css({
+> 'display': 'block',
+> 'top': toppos,
+> 'left': leftpos,
+> 'width': w,
+> 'height': h
+> });
+> $('.image-annotate-note').css({
+> 'top': toppos + h + 5,
+> 'left': leftpos
+> });
+> }
+> $('div[class*="annotation-"]').hover(function() {
+> $('.image-annotate-note').css('display','block');
+> }, function() {
+> $('.image-annotate-note').css('display','none');
+> });
+> curr_num = num;
+> } else {
+> curr_num = 0;
+> }
+> }
+> </script>
+>
+> <div class="row" id="image_viewer_container">
+>
+> <a class="btn_left_arrow" href="javascript:void(0);" onClick="prev();">&lt;</a>
+> <a class="btn_right_arrow" href="javascript:void(0);" onClick="next();">&gt;</a>
+>
+> <div class="col-7" id="img_container" style="position: relative; padding: 0px;">
+> <div id="div_loading">Loading...</div>
+> <img id="main_img" src="" alt=""/>
+> </div>
+> <div class="col-5" id="meta_container">
+> <p class="img_desc_taken_by" id="main_taken_by">&#169; Alfons Puertas</p>
+> <p class="img_desc_loc" id="main_loc">Vallvidrera - el Tibidabo i les
+> Planes, Barcelona, Barcelona, Spain</p>
+> <p class="img_desc_lat" id="main_lat">Latitude: 41° 25' 6'' N</p>
+> <p class="img_desc_lng" id="main_lng">Longitude: 2° 7' 27'' E</p>
+> <p><span class="img_desc_photo_date" id="main_photo_date">13 August
+> 2014 1230 (Local Time)</span><br><span class="img_desc_dir"
+> id="main_dir">Camera direction: towards E</span></p>
+> <p class="img_identifier" id="main_iden">Image P/S code: </p>
+> <p class="img_identifier" id="main_id">Image I.D.: 4781</p>
+> <p class="img_cloudcode" id="main_cloudcode"></p>
+> </div>
+> <div class="col-5" id="desc_container">
+> <div id="main_content"></div>
+> </div>
+> <div class="col-12" id="control_container">
+> <!-- a id="btn-prev" href="javascript:void(0);"
+> onClick="goPrevItem();">&lt;</a -->
+> <!-- div class="thumb-mask" -->
+> <ul id="thumb-item-container">
+> <li>
+> <div style="margin-top: 6px;">
+> <button class="btn-pnri btn-img-type active"
+> onClick="showThumb('pnri');">Images & related info</button>
+> <button class="btn-seci btn-img-type"
+> onClick="showThumb('seci');">Other Images</button>
+> <button class="btn-pri btn-img-type"
+> onClick="showThumb('pri');">Images of 1987 edition</button>
+> </div>
+> </li>
+> <li class="pnri thumb_show active"><a href="javascript:void(0);"
+> onClick="showContent(1, 'hori', 1);"><img id="img1"
+> src="../images/compressed/4781_main_roll-cloud_clouds-special-clouds-and-other-features.JPG"
+> alt="" /></a><div id="desc1" class="img_desc"><h1
+> class="img_title">Roll cloud</h1><p>Roll cloud passing by above
+> Barcelona, Spain</p><p class="imgviewer_remark">Links in the image
+> description will highlight features on the image. Mouse over the
+> features for more detail.</p></div><div id="takenby1"
+> class="img_desc">&#169; Alfons Puertas</div><div id="loc1"
+> class="img_desc">Vallvidrera - el Tibidabo i les Planes, Barcelona,
+> Barcelona, Spain</div><div id="lat1" class="img_desc">Latitude: 41°
+> 25' 6'' N</div><div id="lng1" class="img_desc">Longitude: 2° 7' 27''
+> E</div><div id="photodate1" class="img_desc">13 August 2014 1230
+> (Local Time)</div><br><div id="dir1" class="img_desc">Camera
+> direction: towards E</div><div id="cloudcode1"
+> class="img_desc"></div><div id="imgiden1" class="img_id"></div><div
+> id="imgid1" class="img_id">Image I.D.: 4781</div></li> </ul>
+> <!-- /div -->
+> <!-- a id="btn-next" href="javascript:void(0);"
+> onClick="goNextItem();">&gt;</a -->
+> </div>
+> </div>
+>
+>
+> On Sat, 13 May 2023 at 07:04, Papa Legba.N.B <bbrainwizzard.nb@gmail.com> wrote:
+> >
+> > <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0q54n5XdRUgbu8wvxFBXcyXFN32pwyMUVcPhU6ZwPX5eXLPz6B6XRRnQi6GZFbv4Gl%26id%3D100092377432978&show_text=true&width=500"
+> > width="500" height="458" style="border:none;overflow:hidden"
+> > scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+> > clipboard-write; encrypted-media; picture-in-picture;
+> > web-share"></iframe>
+> >
+> > Inbox
+> >
+> > Papa Legba.N.B <bbrainwizzard.nb@gmail.com>
+> >
+> > 05:39 (1 hour ago)
+> > to me
+> > <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0q54n5XdRUgbu8wvxFBXcyXFN32pwyMUVcPhU6ZwPX5eXLPz6B6XRRnQi6GZFbv4Gl%26id%3D100092377432978&show_text=true&width=500"
+> > width="500" height="458" style="border:none;overflow:hidden"
+> > scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+> > clipboard-write; encrypted-media; picture-in-picture;
+> > web-share"></iframe>
+> >
+> > Papa Legba.N.B
+> >
+> > 05:52 (1 hour ago)
+> > to Papalegba.nb=noreply
+> > Inbox
+> >
+> > Papa Legba.N.B <bbrainwizzard.nb@gmail.com>
+> >
+> > 05:39 (11 minutes ago)
+> > to me
+> > web-share"></iframe>---------- Forwarded message ---------
+> > From: Papa Legba.N.B <bbrainwizzard.nb@gmail.com>
+> > Date: Sat, 13 May 2023 at 05:39
+> > Subject: <iframe
+> > To: Papa Legba.N.B <bbrainwizzard.nb@gmail.com>
+> >
+> > Papa Legba.N.B
+> >
+> > 07:01 (2 minutes ago)
+> > to me
+> > <div class="x14nfmen xjm9jq1 xh8yej3"></div><div class="x14yjl9h
+> > xudhj91 x18nykt9 xww2gxu x6s0dn4 x972fbf xcfux6l x1qhh985 xm0m39n
+> > x9f619 x3nfvp2 xl56j7k x1n2onr6 x11goek xc9qbxq x14qfxbe"><i
+> > data-visualcompletion="css-img" class="x1b0d499 xaj1gnb"
+> > style="background-image:
+> > url(&quot;https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/fGSLTE7Dx7v.png&quot;);
+> > background-position: 0px -290px; background-size: auto; width: 20px;
+> > height: 20px; background-repeat: no-repeat; display:
+> > inline-block;"></i></div>;
+> > analytics:integration:facebook-pixel error loading "Facebook Pixel"
+> > error="Error: script error
+> > "http://connect.facebook.net/en_US/fbevents.js" at
+> > HTMLScriptElement.<anonymous>
+> > (https://cdn.segment.com/analytics.js/v1/wUgzMSmoJCAqPDNtJ5BfDTzRFWDduzcP/analytics.min.js:10:3537)"
+> > +18ms  https://tray.io/lp/get/get-started
+> >
+> > Papa Legba.N.B
+> >
+> > 07:03 (0 minutes ago)
+> > to me
+> > Dark Dose
+> > 6E5IK8sT9fVxPdywDCtXKunyvK-WTUDVVfT_DgTt2vb4S8VMS1xj4nn.js?_nc_x=pG_yOh5qVKH
+> > Like
+> > Reply1m
+> > Author
+> > Dark Dose
+> > FB-118693501219897-0-AbxLmqKIqvK6FpvV
+> > Like
+> > Reply1m
+> > Author
+> > Dark Dose
+> > analytics:integration:facebook-pixel error loading "Facebook Pixel"
+> > error="Error: script error
+> > "http://connect.facebook.net/en_US/fbevents.js" at
+> > HTMLScriptElement.<anonymous>
+> > (https://cdn.segment.com/.../wUgz.../analytics.min.js:10:3537)" +18ms
+> > Like
+> > Reply1m
+> > Author
+> > Dark Dose
+> > https://tray.io/lp/get/get-started
+> > TRAY.IO
+> > Get started | Tray.io
+> > Get started | Tray.io
+> > Like
+> > ReplyRemove Preview1m
+> > Recipients
+> >
+> >
+> > ---------- Forwarded message ---------
+> > From: Papa Legba.N.B <bbrainwizzard.nb@gmail.com>
+> > Date: Sat, 13 May 2023 at 07:03
+> > Subject: Re: <iframe
+> > src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0q54n5XdRUgbu8wvxFBXcyXFN32pwyMUVcPhU6ZwPX5eXLPz6B6XRRnQi6GZFbv4Gl%26id%3D100092377432978&show_text=true&width=500"
+> > width="500" height="458" style="border:none;overflow:hidden"
+> > scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+> > clipboard-write; encrypted-media; picture-in-picture;
+> > web-share"></iframe>
+> > To: Papa Legba.N.B <bbrainwizzard.nb@gmail.com>
+> >
+> >
+> > Dark Dose
+> > 6E5IK8sT9fVxPdywDCtXKunyvK-WTUDVVfT_DgTt2vb4S8VMS1xj4nn.js?_nc_x=pG_yOh5qVKH
+> > Like
+> > Reply1m
+> > Author
+> > Dark Dose
+> > FB-118693501219897-0-AbxLmqKIqvK6FpvV
+> > Like
+> > Reply1m
+> > Author
+> > Dark Dose
+> > analytics:integration:facebook-pixel error loading "Facebook Pixel"
+> > error="Error: script error
+> > "http://connect.facebook.net/en_US/fbevents.js" at
+> > HTMLScriptElement.<anonymous>
+> > (https://cdn.segment.com/.../wUgz.../analytics.min.js:10:3537)" +18ms
+> > Like
+> > Reply1m
+> > Author
+> > Dark Dose
+> > https://tray.io/lp/get/get-started
+> > TRAY.IO
+> > Get started | Tray.io
+> > Get started | Tray.io
+> > Like
+> > ReplyRemove Preview1m
+> >
+> > On Sat, 13 May 2023 at 05:39, Papa Legba.N.B <bbrainwizzard.nb@gmail.com> wrote:
+> > >
+> > > <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0q54n5XdRUgbu8wvxFBXcyXFN32pwyMUVcPhU6ZwPX5eXLPz6B6XRRnQi6GZFbv4Gl%26id%3D100092377432978&show_text=true&width=500"
+> > > width="500" height="458" style="border:none;overflow:hidden"
+> > > scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+> > > clipboard-write; encrypted-media; picture-in-picture;
+> > > web-share"></iframe>
+> > Send
