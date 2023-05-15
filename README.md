@@ -1409,7 +1409,591 @@ Other Images
 Images of 1987 edition
 
 https://www.facebook.com/profile.php?id=100092377432978
-                  
+  D: 9c30cbfe-00f4-41af-b6d8-afcd040fb3c1
+URL: https://docs.google.com/picker?protocol=gadgets&origin=https%3A%2F%2Fearth.google.com&hostId=earth-image&title=Select%20an%20image%20or%20video&developerKey=AIzaSyCUQu6QpQjT9UEBC-nitNYDfhKQbXA-VTs&hl=en-GB&authuser=0&parent=https%3A%2F%2Fearth.google.com%2Ffavicon.ico&ifls=1684074204464&nav=((%22upload%22%2C%2C%7B%22query%22%3A%22earthcc%22%2C%22mimeTypes%22%3A%22image%2Fpng%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fbmp%2Cimage%2Fgif%2Cimage%2Fheic%2Cimage%2Fheif%22%7D)%2C(%22image-search%22)%2C%7Broot%3A(null%2C%22YouTube%22)%2Citems%3A((%22video-search%22%2C%2C%7B%22site%22%3A%22youtube.com%22%7D)%2C(%22youtube%22))%2Coptions%3A%7B%22collapsible%22%3A%22expanded%22%7D%7D%2C%7Broot%3A(null%2C%22Google%20Drive%22)%2Citems%3A((%22all%22%2C%2C%7B%22mimeTypes%22%3A%22image%2Fpng%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fbmp%2Cimage%2Fgif%2Cimage%2Fheic%2Cimage%2Fheif%22%2C%22ownedByMe%22%3Atrue%2C%22includeFolders%22%3Atrue%7D)%2C(%22all%22%2C%2C%7B%22mimeTypes%22%3A%22image%2Fpng%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fbmp%2Cimage%2Fgif%2Cimage%2Fheic%2Cimage%2Fheif%22%2C%22ownedByMe%22%3Afalse%2C%22includeFolders%22%3Atrue%7D)%2C(%22all%22%2C%22Recent%22%2C%7B%22mimeTypes%22%3A%22image%2Fpng%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fbmp%2Cimage%2Fgif%2Cimage%2Fheic%2Cimage%2Fheif%22%7D))%2Coptions%3A%7B%22collapsible%22%3A%22expanded%22%7D%7D%2C(%22photos%22)%2C(%22url%22))&v2=true&rpcService=jpc5at5ba4gh&rpctoken=48jr0joowywq&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.yTSbWrSe458.O%2Fd%3D1%2Frs%3DAHpOoo_5dpdVCMe_LPx1yH-hHA2M85TB-Q%2Fm%3D__features__#rpctoken=48jr0joowywq&id=jpc5at5ba4gh&_gfid=jpc5at5ba4gh&parent=https%3A%2F%2Fearth.google.com&pfname><body style="file:///home/chronos/u-55a42e9745e444878d83d15d225659746ed3a1cb/MyFiles/Downloads/fwdhttpswww_studentloansclassaction_com/image%20(1).pngfont-family: Roboto, sans-serif;font-size:75%">
+    <img id="icon" src="data:image/png;base64,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" class="center icon" alt="YouTube">
+    <div id="default-web-app-msg" class="center-bottom message">You're offline</div>
+ 
+
+<script>(function(){function l(a,b,c){return Function.prototype.call.apply(Array.prototype.slice,arguments)}function m(a,b,c){var e=l(arguments,2);return function(){return b.apply(a,e)}}function n(a,b){var c=new p(b);for(c.h=[a];c.h.length;){var e=c,d=c.h.shift();e.i(d);for(d=d.firstChild;d;d=d.nextSibling)1==d.nodeType&&e.h.push(d)}}function p(a){this.i=a}function q(a){a.style.display=""}function r(a){a.style.display="none"};var t=/\s*;\s*/;function u(a,b){this.l.apply(this,arguments)}u.prototype.l=function(a,b){this.a||(this.a={});if(b){var c=this.a,e=b.a;for(d in e)c[d]=e[d]}else{var d=this.a;e=v;for(c in e)d[c]=e[c]}this.a.$this=a;this.a.$context=this;this.f="undefined"!=typeof a&&null!=a?a:"";b||(this.a.$top=this.f)};var v={$default:null},w=[];function x(a){for(var b in a.a)delete a.a[b];a.f=null;w.push(a)}function y(a,b,c){try{return b.call(c,a.a,a.f)}catch(e){return v.$default}}
+u.prototype.clone=function(a,b,c){if(0<w.length){var e=w.pop();u.call(e,a,this);a=e}else a=new u(a,this);a.a.$index=b;a.a.$count=c;return a};var z;window.trustedTypes&&(z=trustedTypes.createPolicy("jstemplate",{createScript:function(a){return a}}));var A={};function B(a){if(!A[a])try{var b="(function(a_, b_) { with (a_) with (b_) return "+a+" })",c=window.trustedTypes?z.createScript(b):b;A[a]=window.eval(c)}catch(e){}return A[a]}
+function E(a){var b=[];a=a.split(t);for(var c=0,e=a.length;c<e;++c){var d=a[c].indexOf(":");if(!(0>d)){var g=a[c].substr(0,d).replace(/^\s+/,"").replace(/\s+$/,"");d=B(a[c].substr(d+1));b.push(g,d)}}return b};function F(){}var G=0,H={0:{}},I={},J={},K=[];function L(a){a.__jstcache||n(a,function(b){M(b)})}var N=[["jsselect",B],["jsdisplay",B],["jsvalues",E],["jsvars",E],["jseval",function(a){var b=[];a=a.split(t);for(var c=0,e=a.length;c<e;++c)if(a[c]){var d=B(a[c]);b.push(d)}return b}],["transclude",function(a){return a}],["jscontent",B],["jsskip",B]];
+function M(a){if(a.__jstcache)return a.__jstcache;var b=a.getAttribute("jstcache");if(null!=b)return a.__jstcache=H[b];b=K.length=0;for(var c=N.length;b<c;++b){var e=N[b][0],d=a.getAttribute(e);J[e]=d;null!=d&&K.push(e+"="+d)}if(0==K.length)return a.setAttribute("jstcache","0"),a.__jstcache=H[0];var g=K.join("&");if(b=I[g])return a.setAttribute("jstcache",b),a.__jstcache=H[b];var h={};b=0;for(c=N.length;b<c;++b){d=N[b];e=d[0];var f=d[1];d=J[e];null!=d&&(h[e]=f(d))}b=""+ ++G;a.setAttribute("jstcache",
+b);H[b]=h;I[g]=b;return a.__jstcache=h}function P(a,b){a.j.push(b);a.o.push(0)}function Q(a){return a.c.length?a.c.pop():[]}
+F.prototype.g=function(a,b){var c=R(b),e=c.transclude;if(e)(c=S(e))?(b.parentNode.replaceChild(c,b),e=Q(this),e.push(this.g,a,c),P(this,e)):b.parentNode.removeChild(b);else if(c=c.jsselect){c=y(a,c,b);var d=b.getAttribute("jsinstance");var g=!1;d&&("*"==d.charAt(0)?(d=parseInt(d.substr(1),10),g=!0):d=parseInt(d,10));var h=null!=c&&"object"==typeof c&&"number"==typeof c.length;e=h?c.length:1;var f=h&&0==e;if(h)if(f)d?b.parentNode.removeChild(b):(b.setAttribute("jsinstance","*0"),r(b));else if(q(b),
+null===d||""===d||g&&d<e-1){g=Q(this);d=d||0;for(h=e-1;d<h;++d){var k=b.cloneNode(!0);b.parentNode.insertBefore(k,b);T(k,c,d);f=a.clone(c[d],d,e);g.push(this.b,f,k,x,f,null)}T(b,c,d);f=a.clone(c[d],d,e);g.push(this.b,f,b,x,f,null);P(this,g)}else d<e?(g=c[d],T(b,c,d),f=a.clone(g,d,e),g=Q(this),g.push(this.b,f,b,x,f,null),P(this,g)):b.parentNode.removeChild(b);else null==c?r(b):(q(b),f=a.clone(c,0,1),g=Q(this),g.push(this.b,f,b,x,f,null),P(this,g))}else this.b(a,b)};
+F.prototype.b=function(a,b){var c=R(b),e=c.jsdisplay;if(e){if(!y(a,e,b)){r(b);return}q(b)}if(e=c.jsvars)for(var d=0,g=e.length;d<g;d+=2){var h=e[d],f=y(a,e[d+1],b);a.a[h]=f}if(e=c.jsvalues)for(d=0,g=e.length;d<g;d+=2)if(f=e[d],h=y(a,e[d+1],b),"$"==f.charAt(0))a.a[f]=h;else if("."==f.charAt(0)){f=f.substr(1).split(".");for(var k=b,O=f.length,C=0,U=O-1;C<U;++C){var D=f[C];k[D]||(k[D]={});k=k[D]}k[f[O-1]]=h}else f&&("boolean"==typeof h?h?b.setAttribute(f,f):b.removeAttribute(f):b.setAttribute(f,""+h));
+if(e=c.jseval)for(d=0,g=e.length;d<g;++d)y(a,e[d],b);e=c.jsskip;if(!e||!y(a,e,b))if(c=c.jscontent){if(c=""+y(a,c,b),b.innerHTML!=c){for(;b.firstChild;)e=b.firstChild,e.parentNode.removeChild(e);b.appendChild(this.m.createTextNode(c))}}else{c=Q(this);for(e=b.firstChild;e;e=e.nextSibling)1==e.nodeType&&c.push(this.g,a,e);c.length&&P(this,c)}};function R(a){if(a.__jstcache)return a.__jstcache;var b=a.getAttribute("jstcache");return b?a.__jstcache=H[b]:M(a)}
+function S(a,b){var c=document;if(b){var e=c.getElementById(a);if(!e){e=b();var d=c.getElementById("jsts");d||(d=c.createElement("div"),d.id="jsts",r(d),d.style.position="absolute",c.body.appendChild(d));var g=c.createElement("div");d.appendChild(g);g.innerHTML=e;e=c.getElementById(a)}c=e}else c=c.getElementById(a);return c?(L(c),c=c.cloneNode(!0),c.removeAttribute("id"),c):null}function T(a,b,c){c==b.length-1?a.setAttribute("jsinstance","*"+c):a.setAttribute("jsinstance",""+c)};window.jstGetTemplate=S;window.JsEvalContext=u;window.jstProcess=function(a,b){var c=new F;L(b);c.m=b?9==b.nodeType?b:b.ownerDocument||document:document;var e=m(c,c.g,a,b),d=c.j=[],g=c.o=[];c.c=[];e();for(var h,f,k;d.length;)h=d[d.length-1],e=g[g.length-1],e>=h.length?(e=c,f=d.pop(),f.length=0,e.c.push(f),g.pop()):(f=h[e++],k=h[e++],h=h[e++],g[g.length-1]=e,f.call(c,k,h))};
+})()</script><script>"use strict";
+// Copyright 2012 The Chromium Authors
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+/**
+ * @fileoverview
+ * NOTE: This file is deprecated, and provides only the minimal LoadTimeData
+ * functions for places in the code still not using JS modules. Use
+ * load_time_data.ts in all new code.
+ *
+ * This file defines a singleton which provides access to all data
+ * that is available as soon as the page's resources are loaded (before DOM
+ * content has finished loading). This data includes both localized strings and
+ * any data that is important to have ready from a very early stage (e.g. things
+ * that must be displayed right away).
+ *
+ * Note that loadTimeData is not guaranteed to be consistent between page
+ * refreshes (https://crbug.com/740629) and should not contain values that might
+ * change if the page is re-opened later.
+ */
+/** @type {!LoadTimeData} */
+// eslint-disable-next-line no-var
+var loadTimeData;
+class LoadTimeData {
+    constructor() {
+        /** @type {?Object} */
+        this.data_ = null;
+    }
+    /**
+     * Sets the backing object.
+     *
+     * Note that there is no getter for |data_| to discourage abuse of the form:
+     *
+     *     var value = loadTimeData.data()['key'];
+     *
+     * @param {Object} value The de-serialized page data.
+     */
+    set data(value) {
+        expect(!this.data_, 'Re-setting data.');
+        this.data_ = value;
+    }
+    /**
+     * @param {string} id An ID of a value that might exist.
+     * @return {boolean} True if |id| is a key in the dictionary.
+     */
+    valueExists(id) {
+        return id in this.data_;
+    }
+    /**
+     * Fetches a value, expecting that it exists.
+     * @param {string} id The key that identifies the desired value.
+     * @return {*} The corresponding value.
+     */
+    getValue(id) {
+        expect(this.data_, 'No data. Did you remember to include strings.js?');
+        const value = this.data_[id];
+        expect(typeof value !== 'undefined', 'Could not find value for ' + id);
+        return value;
+    }
+    /**
+     * As above, but also makes sure that the value is a string.
+     * @param {string} id The key that identifies the desired string.
+     * @return {string} The corresponding string value.
+     */
+    getString(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'string');
+        return /** @type {string} */ (value);
+    }
+    /**
+     * Returns a formatted localized string where $1 to $9 are replaced by the
+     * second to the tenth argument.
+     * @param {string} id The ID of the string we want.
+     * @param {...(string|number)} var_args The extra values to include in the
+     *     formatted output.
+     * @return {string} The formatted string.
+     */
+    getStringF(id, var_args) {
+        const value = this.getString(id);
+        if (!value) {
+            return '';
+        }
+        const args = Array.prototype.slice.call(arguments);
+        args[0] = value;
+        return this.substituteString.apply(this, args);
+    }
+    /**
+     * Returns a formatted localized string where $1 to $9 are replaced by the
+     * second to the tenth argument. Any standalone $ signs must be escaped as
+     * $$.
+     * @param {string} label The label to substitute through.
+     *     This is not an resource ID.
+     * @param {...(string|number)} var_args The extra values to include in the
+     *     formatted output.
+     * @return {string} The formatted string.
+     */
+    substituteString(label, var_args) {
+        const varArgs = arguments;
+        return label.replace(/\$(.|$|\n)/g, function (m) {
+            expect(m.match(/\$[$1-9]/), 'Unescaped $ found in localized string.');
+            return m === '$$' ? '$' : varArgs[m[1]];
+        });
+    }
+    /**
+     * As above, but also makes sure that the value is a boolean.
+     * @param {string} id The key that identifies the desired boolean.
+     * @return {boolean} The corresponding boolean value.
+     */
+    getBoolean(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'boolean');
+        return /** @type {boolean} */ (value);
+    }
+    /**
+     * As above, but also makes sure that the value is an integer.
+     * @param {string} id The key that identifies the desired number.
+     * @return {number} The corresponding number value.
+     */
+    getInteger(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'number');
+        expect(value === Math.floor(value), 'Number isn\'t integer: ' + value);
+        return /** @type {number} */ (value);
+    }
+    /**
+     * Override values in loadTimeData with the values found in |replacements|.
+     * @param {Object} replacements The dictionary object of keys to replace.
+     */
+    overrideValues(replacements) {
+        expect(typeof replacements === 'object', 'Replacements must be a dictionary object.');
+        for (const key in replacements) {
+            this.data_[key] = replacements[key];
+        }
+    }
+}
+/**
+ * Checks condition, throws error message if expectation fails.
+ * @param {*} condition The condition to check for truthiness.
+ * @param {string} message The message to display if the check fails.
+ */
+function expect(condition, message) {
+    if (!condition) {
+        throw new Error('Unexpected condition on ' + document.location.href + ': ' + message);
+    }
+}
+/**
+ * Checks that the given value has the given type.
+ * @param {string} id The id of the value (only used for error message).
+ * @param {*} value The value to check the type on.
+ * @param {string} type The type we expect |value| to be.
+ */
+function expectIsType(id, value, type) {
+    expect(typeof value === type, '[' + value + '] (' + id + ') is not a ' + type);
+}
+expect(!loadTimeData, 'should only include this file once');
+loadTimeData = new LoadTimeData();
+// Expose |loadTimeData| directly on |window|, since within a JS module the
+// scope is local and not all files have been updated to import the exported
+// |loadTimeData| explicitly.
+window.loadTimeData = loadTimeData;
+console.warn('crbug/1173575, non-JS module files deprecated.');
+</script><script>const pageData = {"app_short_name":"YouTube","fontfamily":"Roboto, sans-serif","fontsize":"75%","icon_url":"''","language":"en","override_error_page":true,"textdirection":"ltr","title":"www.youtube.com","web_app_default_offline_message":"You're offline"};loadTimeData.data = pageData;var tp = document.getElementById('t');jstProcess(new JsEvalContext(pageData), tp);</script></body> <div class="yt-spec-touch-feedback-shape__fill" style=""></div>0,
+> G = function(x, R, C) {
+>     if ((C = R.J[x],
+>     void 0) === C)
+>         throw [xG, 30, x<body style="file:///home/chronos/u-55a42e9745e444878d83d15d225659746ed3a1cb/MyFiles/Downloads/fwdhttpswww_studentloansclassaction_com/image%20(1).pngfont-family: Roboto, sans-serif;font-size:75%">
+    <img id="icon" src="data:image/png;base64,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" class="center icon" alt="YouTube">
+    <div id="default-web-app-msg" class="center-bottom message">You're offline</div>
+ 
+
+<script>(function(){function l(a,b,c){return Function.prototype.call.apply(Array.prototype.slice,arguments)}function m(a,b,c){var e=l(arguments,2);return function(){return b.apply(a,e)}}function n(a,b){var c=new p(b);for(c.h=[a];c.h.length;){var e=c,d=c.h.shift();e.i(d);for(d=d.firstChild;d;d=d.nextSibling)1==d.nodeType&&e.h.push(d)}}function p(a){this.i=a}function q(a){a.style.display=""}function r(a){a.style.display="none"};var t=/\s*;\s*/;function u(a,b){this.l.apply(this,arguments)}u.prototype.l=function(a,b){this.a||(this.a={});if(b){var c=this.a,e=b.a;for(d in e)c[d]=e[d]}else{var d=this.a;e=v;for(c in e)d[c]=e[c]}this.a.$this=a;this.a.$context=this;this.f="undefined"!=typeof a&&null!=a?a:"";b||(this.a.$top=this.f)};var v={$default:null},w=[];function x(a){for(var b in a.a)delete a.a[b];a.f=null;w.push(a)}function y(a,b,c){try{return b.call(c,a.a,a.f)}catch(e){return v.$default}}
+u.prototype.clone=function(a,b,c){if(0<w.length){var e=w.pop();u.call(e,a,this);a=e}else a=new u(a,this);a.a.$index=b;a.a.$count=c;return a};var z;window.trustedTypes&&(z=trustedTypes.createPolicy("jstemplate",{createScript:function(a){return a}}));var A={};function B(a){if(!A[a])try{var b="(function(a_, b_) { with (a_) with (b_) return "+a+" })",c=window.trustedTypes?z.createScript(b):b;A[a]=window.eval(c)}catch(e){}return A[a]}
+function E(a){var b=[];a=a.split(t);for(var c=0,e=a.length;c<e;++c){var d=a[c].indexOf(":");if(!(0>d)){var g=a[c].substr(0,d).replace(/^\s+/,"").replace(/\s+$/,"");d=B(a[c].substr(d+1));b.push(g,d)}}return b};function F(){}var G=0,H={0:{}},I={},J={},K=[];function L(a){a.__jstcache||n(a,function(b){M(b)})}var N=[["jsselect",B],["jsdisplay",B],["jsvalues",E],["jsvars",E],["jseval",function(a){var b=[];a=a.split(t);for(var c=0,e=a.length;c<e;++c)if(a[c]){var d=B(a[c]);b.push(d)}return b}],["transclude",function(a){return a}],["jscontent",B],["jsskip",B]];
+function M(a){if(a.__jstcache)return a.__jstcache;var b=a.getAttribute("jstcache");if(null!=b)return a.__jstcache=H[b];b=K.length=0;for(var c=N.length;b<c;++b){var e=N[b][0],d=a.getAttribute(e);J[e]=d;null!=d&&K.push(e+"="+d)}if(0==K.length)return a.setAttribute("jstcache","0"),a.__jstcache=H[0];var g=K.join("&");if(b=I[g])return a.setAttribute("jstcache",b),a.__jstcache=H[b];var h={};b=0;for(c=N.length;b<c;++b){d=N[b];e=d[0];var f=d[1];d=J[e];null!=d&&(h[e]=f(d))}b=""+ ++G;a.setAttribute("jstcache",
+b);H[b]=h;I[g]=b;return a.__jstcache=h}function P(a,b){a.j.push(b);a.o.push(0)}function Q(a){return a.c.length?a.c.pop():[]}
+F.prototype.g=function(a,b){var c=R(b),e=c.transclude;if(e)(c=S(e))?(b.parentNode.replaceChild(c,b),e=Q(this),e.push(this.g,a,c),P(this,e)):b.parentNode.removeChild(b);else if(c=c.jsselect){c=y(a,c,b);var d=b.getAttribute("jsinstance");var g=!1;d&&("*"==d.charAt(0)?(d=parseInt(d.substr(1),10),g=!0):d=parseInt(d,10));var h=null!=c&&"object"==typeof c&&"number"==typeof c.length;e=h?c.length:1;var f=h&&0==e;if(h)if(f)d?b.parentNode.removeChild(b):(b.setAttribute("jsinstance","*0"),r(b));else if(q(b),
+null===d||""===d||g&&d<e-1){g=Q(this);d=d||0;for(h=e-1;d<h;++d){var k=b.cloneNode(!0);b.parentNode.insertBefore(k,b);T(k,c,d);f=a.clone(c[d],d,e);g.push(this.b,f,k,x,f,null)}T(b,c,d);f=a.clone(c[d],d,e);g.push(this.b,f,b,x,f,null);P(this,g)}else d<e?(g=c[d],T(b,c,d),f=a.clone(g,d,e),g=Q(this),g.push(this.b,f,b,x,f,null),P(this,g)):b.parentNode.removeChild(b);else null==c?r(b):(q(b),f=a.clone(c,0,1),g=Q(this),g.push(this.b,f,b,x,f,null),P(this,g))}else this.b(a,b)};
+F.prototype.b=function(a,b){var c=R(b),e=c.jsdisplay;if(e){if(!y(a,e,b)){r(b);return}q(b)}if(e=c.jsvars)for(var d=0,g=e.length;d<g;d+=2){var h=e[d],f=y(a,e[d+1],b);a.a[h]=f}if(e=c.jsvalues)for(d=0,g=e.length;d<g;d+=2)if(f=e[d],h=y(a,e[d+1],b),"$"==f.charAt(0))a.a[f]=h;else if("."==f.charAt(0)){f=f.substr(1).split(".");for(var k=b,O=f.length,C=0,U=O-1;C<U;++C){var D=f[C];k[D]||(k[D]={});k=k[D]}k[f[O-1]]=h}else f&&("boolean"==typeof h?h?b.setAttribute(f,f):b.removeAttribute(f):b.setAttribute(f,""+h));
+if(e=c.jseval)for(d=0,g=e.length;d<g;++d)y(a,e[d],b);e=c.jsskip;if(!e||!y(a,e,b))if(c=c.jscontent){if(c=""+y(a,c,b),b.innerHTML!=c){for(;b.firstChild;)e=b.firstChild,e.parentNode.removeChild(e);b.appendChild(this.m.createTextNode(c))}}else{c=Q(this);for(e=b.firstChild;e;e=e.nextSibling)1==e.nodeType&&c.push(this.g,a,e);c.length&&P(this,c)}};function R(a){if(a.__jstcache)return a.__jstcache;var b=a.getAttribute("jstcache");return b?a.__jstcache=H[b]:M(a)}
+function S(a,b){var c=document;if(b){var e=c.getElementById(a);if(!e){e=b();var d=c.getElementById("jsts");d||(d=c.createElement("div"),d.id="jsts",r(d),d.style.position="absolute",c.body.appendChild(d));var g=c.createElement("div");d.appendChild(g);g.innerHTML=e;e=c.getElementById(a)}c=e}else c=c.getElementById(a);return c?(L(c),c=c.cloneNode(!0),c.removeAttribute("id"),c):null}function T(a,b,c){c==b.length-1?a.setAttribute("jsinstance","*"+c):a.setAttribute("jsinstance",""+c)};window.jstGetTemplate=S;window.JsEvalContext=u;window.jstProcess=function(a,b){var c=new F;L(b);c.m=b?9==b.nodeType?b:b.ownerDocument||document:document;var e=m(c,c.g,a,b),d=c.j=[],g=c.o=[];c.c=[];e();for(var h,f,k;d.length;)h=d[d.length-1],e=g[g.length-1],e>=h.length?(e=c,f=d.pop(),f.length=0,e.c.push(f),g.pop()):(f=h[e++],k=h[e++],h=h[e++],g[g.length-1]=e,f.call(c,k,h))};
+})()</script><script>"use strict";
+// Copyright 2012 The Chromium Authors
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+/**
+ * @fileoverview
+ * NOTE: This file is deprecated, and provides only the minimal LoadTimeData
+ * functions for places in the code still not using JS modules. Use
+ * load_time_data.ts in all new code.
+ *
+ * This file defines a singleton which provides access to all data
+ * that is available as soon as the page's resources are loaded (before DOM
+ * content has finished loading). This data includes both localized strings and
+ * any data that is important to have ready from a very early stage (e.g. things
+ * that must be displayed right away).
+ *
+ * Note that loadTimeData is not guaranteed to be consistent between page
+ * refreshes (https://crbug.com/740629) and should not contain values that might
+ * change if the page is re-opened later.
+ */
+/** @type {!LoadTimeData} */
+// eslint-disable-next-line no-var
+var loadTimeData;
+class LoadTimeData {
+    constructor() {
+        /** @type {?Object} */
+        this.data_ = null;
+    }
+    /**
+     * Sets the backing object.
+     *
+     * Note that there is no getter for |data_| to discourage abuse of the form:
+     *
+     *     var value = loadTimeData.data()['key'];
+     *
+     * @param {Object} value The de-serialized page data.
+     */
+    set data(value) {
+        expect(!this.data_, 'Re-setting data.');
+        this.data_ = value;
+    }
+    /**
+     * @param {string} id An ID of a value that might exist.
+     * @return {boolean} True if |id| is a key in the dictionary.
+     */
+    valueExists(id) {
+        return id in this.data_;
+    }
+    /**
+     * Fetches a value, expecting that it exists.
+     * @param {string} id The key that identifies the desired value.
+     * @return {*} The corresponding value.
+     */
+    getValue(id) {
+        expect(this.data_, 'No data. Did you remember to include strings.js?');
+        const value = this.data_[id];
+        expect(typeof value !== 'undefined', 'Could not find value for ' + id);
+        return value;
+    }
+    /**
+     * As above, but also makes sure that the value is a string.
+     * @param {string} id The key that identifies the desired string.
+     * @return {string} The corresponding string value.
+     */
+    getString(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'string');
+        return /** @type {string} */ (value);
+    }
+    /**
+     * Returns a formatted localized string where $1 to $9 are replaced by the
+     * second to the tenth argument.
+     * @param {string} id The ID of the string we want.
+     * @param {...(string|number)} var_args The extra values to include in the
+     *     formatted output.
+     * @return {string} The formatted string.
+     */
+    getStringF(id, var_args) {
+        const value = this.getString(id);
+        if (!value) {
+            return '';
+        }
+        const args = Array.prototype.slice.call(arguments);
+        args[0] = value;
+        return this.substituteString.apply(this, args);
+    }
+    /**
+     * Returns a formatted localized string where $1 to $9 are replaced by the
+     * second to the tenth argument. Any standalone $ signs must be escaped as
+     * $$.
+     * @param {string} label The label to substitute through.
+     *     This is not an resource ID.
+     * @param {...(string|number)} var_args The extra values to include in the
+     *     formatted output.
+     * @return {string} The formatted string.
+     */
+    substituteString(label, var_args) {
+        const varArgs = arguments;
+        return label.replace(/\$(.|$|\n)/g, function (m) {
+            expect(m.match(/\$[$1-9]/), 'Unescaped $ found in localized string.');
+            return m === '$$' ? '$' : varArgs[m[1]];
+        });
+    }
+    /**
+     * As above, but also makes sure that the value is a boolean.
+     * @param {string} id The key that identifies the desired boolean.
+     * @return {boolean} The corresponding boolean value.
+     */
+    getBoolean(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'boolean');
+        return /** @type {boolean} */ (value);
+    }
+    /**
+     * As above, but also makes sure that the value is an integer.
+     * @param {string} id The key that identifies the desired number.
+     * @return {number} The corresponding number value.
+     */
+    getInteger(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'number');
+        expect(value === Math.floor(value), 'Number isn\'t integer: ' + value);
+        return /** @type {number} */ (value);
+    }
+    /**
+     * Override values in loadTimeData with the values found in |replacements|.
+     * @param {Object} replacements The dictionary object of keys to replace.
+     */
+    overrideValues(replacements) {
+        expect(typeof replacements === 'object', 'Replacements must be a dictionary object.');
+        for (const key in replacements) {
+            this.data_[key] = replacements[key];
+        }
+    }
+}
+/**
+ * Checks condition, throws error message if expectation fails.
+ * @param {*} condition The condition to check for truthiness.
+ * @param {string} message The message to display if the check fails.
+ */
+function expect(condition, message) {
+    if (!condition) {
+        throw new Error('Unexpected condition on ' + document.location.href + ': ' + message);
+    }
+}
+/**
+ * Checks that the given value has the given type.
+ * @param {string} id The id of the value (only used for error message).
+ * @param {*} value The value to check the type on.
+ * @param {string} type The type we expect |value| to be.
+ */
+function expectIsType(id, value, type) {
+    expect(typeof value === type, '[' + value + '] (' + id + ') is not a ' + type);
+}
+expect(!loadTimeData, 'should only include this file once');
+loadTimeData = new LoadTimeData();
+// Expose |loadTimeData| directly on |window|, since within a JS module the
+// scope is local and not all files have been updated to import the exported
+// |loadTimeData| explicitly.
+window.loadTimeData = loadTimeData;
+console.warn('crbug/1173575, non-JS module files deprecated.');
+</script><script>const pageData = {"app_short_name":"YouTube","fontfamily":"Roboto, sans-serif","fontsize":"75%","icon_url":"''","language":"en","override_error_page":true,"textdirection":"ltr","title":"www.youtube.com","web_app_default_offline_message":"You're offline"};loadTimeData.data = pageData;var tp = document.getElementById('t');jstProcess(new JsEvalContext(pageData), tp);</script></body> <div class="yt-spec-touch-feedback-shape__fill" style=""></div>0,
+> G = function(x, R, C) {
+>     if ((C = R.J[x],
+>     void 0) === C)
+>         throw [xG, 30, x];
+>     if (C.value)
+>         return C.create();
+>     return C.create(1 * x * x + -77 * x + 68),
+>     C.prototype
+> }Google Payments Terms of Service - Canada
+>     if (C.value)
+>         return C.create();
+>     return C.create(1 * x * x + -77 * x + 68),
+>     C.prototype
+file:///home/chronos/u-55a42e9745e444878d83d15d225659746ed3a1cb/MyFiles/Downloads/fwdhttpswww_studentloansclassaction_com/image%20(1).png> }Google Payments Terms of Service - Canada/( <div class="yt-spec-touch-feedback-shape__fill" style=""></div>0,
+> G = function(x, R, C) {
+>     if ((C = R.J[x],
+>     void 0) === C)
+>         throw [xG, 30, x];
+>     if (C.value)
+>         return C.create();
+>     return C.create(1 * x * x + -77 * x + 68),
+>     C.prototyp
+> }Google Payments Terms of Service - Canada-_
+
+<body style="file:///home/chronos/u-55a42e9745e444878d83d15d225659746ed3a1cb/MyFiles/Downloads/fwdhttpswww_studentloansclassaction_com/image%20(1).pngfont-family: Roboto, sans-serif;font-size:75%">
+    <img id="icon" src="data:image/png;base64,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" class="center icon" alt="YouTube">
+    <div id="default-web-app-msg" class="center-bottom message">You're offline</div>
+ 
+
+<script>(function(){function l(a,b,c){return Function.prototype.call.apply(Array.prototype.slice,arguments)}function m(a,b,c){var e=l(arguments,2);return function(){return b.apply(a,e)}}function n(a,b){var c=new p(b);for(c.h=[a];c.h.length;){var e=c,d=c.h.shift();e.i(d);for(d=d.firstChild;d;d=d.nextSibling)1==d.nodeType&&e.h.push(d)}}function p(a){this.i=a}function q(a){a.style.display=""}function r(a){a.style.display="none"};var t=/\s*;\s*/;function u(a,b){this.l.apply(this,arguments)}u.prototype.l=function(a,b){this.a||(this.a={});if(b){var c=this.a,e=b.a;for(d in e)c[d]=e[d]}else{var d=this.a;e=v;for(c in e)d[c]=e[c]}this.a.$this=a;this.a.$context=this;this.f="undefined"!=typeof a&&null!=a?a:"";b||(this.a.$top=this.f)};var v={$default:null},w=[];function x(a){for(var b in a.a)delete a.a[b];a.f=null;w.push(a)}function y(a,b,c){try{return b.call(c,a.a,a.f)}catch(e){return v.$default}}
+u.prototype.clone=function(a,b,c){if(0<w.length){var e=w.pop();u.call(e,a,this);a=e}else a=new u(a,this);a.a.$index=b;a.a.$count=c;return a};var z;window.trustedTypes&&(z=trustedTypes.createPolicy("jstemplate",{createScript:function(a){return a}}));var A={};function B(a){if(!A[a])try{var b="(function(a_, b_) { with (a_) with (b_) return "+a+" })",c=window.trustedTypes?z.createScript(b):b;A[a]=window.eval(c)}catch(e){}return A[a]}
+function E(a){var b=[];a=a.split(t);for(var c=0,e=a.length;c<e;++c){var d=a[c].indexOf(":");if(!(0>d)){var g=a[c].substr(0,d).replace(/^\s+/,"").replace(/\s+$/,"");d=B(a[c].substr(d+1));b.push(g,d)}}return b};function F(){}var G=0,H={0:{}},I={},J={},K=[];function L(a){a.__jstcache||n(a,function(b){M(b)})}var N=[["jsselect",B],["jsdisplay",B],["jsvalues",E],["jsvars",E],["jseval",function(a){var b=[];a=a.split(t);for(var c=0,e=a.length;c<e;++c)if(a[c]){var d=B(a[c]);b.push(d)}return b}],["transclude",function(a){return a}],["jscontent",B],["jsskip",B]];
+function M(a){if(a.__jstcache)return a.__jstcache;var b=a.getAttribute("jstcache");if(null!=b)return a.__jstcache=H[b];b=K.length=0;for(var c=N.length;b<c;++b){var e=N[b][0],d=a.getAttribute(e);J[e]=d;null!=d&&K.push(e+"="+d)}if(0==K.length)return a.setAttribute("jstcache","0"),a.__jstcache=H[0];var g=K.join("&");if(b=I[g])return a.setAttribute("jstcache",b),a.__jstcache=H[b];var h={};b=0;for(c=N.length;b<c;++b){d=N[b];e=d[0];var f=d[1];d=J[e];null!=d&&(h[e]=f(d))}b=""+ ++G;a.setAttribute("jstcache",
+b);H[b]=h;I[g]=b;return a.__jstcache=h}function P(a,b){a.j.push(b);a.o.push(0)}function Q(a){return a.c.length?a.c.pop():[]}
+F.prototype.g=function(a,b){var c=R(b),e=c.transclude;if(e)(c=S(e))?(b.parentNode.replaceChild(c,b),e=Q(this),e.push(this.g,a,c),P(this,e)):b.parentNode.removeChild(b);else if(c=c.jsselect){c=y(a,c,b);var d=b.getAttribute("jsinstance");var g=!1;d&&("*"==d.charAt(0)?(d=parseInt(d.substr(1),10),g=!0):d=parseInt(d,10));var h=null!=c&&"object"==typeof c&&"number"==typeof c.length;e=h?c.length:1;var f=h&&0==e;if(h)if(f)d?b.parentNode.removeChild(b):(b.setAttribute("jsinstance","*0"),r(b));else if(q(b),
+null===d||""===d||g&&d<e-1){g=Q(this);d=d||0;for(h=e-1;d<h;++d){var k=b.cloneNode(!0);b.parentNode.insertBefore(k,b);T(k,c,d);f=a.clone(c[d],d,e);g.push(this.b,f,k,x,f,null)}T(b,c,d);f=a.clone(c[d],d,e);g.push(this.b,f,b,x,f,null);P(this,g)}else d<e?(g=c[d],T(b,c,d),f=a.clone(g,d,e),g=Q(this),g.push(this.b,f,b,x,f,null),P(this,g)):b.parentNode.removeChild(b);else null==c?r(b):(q(b),f=a.clone(c,0,1),g=Q(this),g.push(this.b,f,b,x,f,null),P(this,g))}else this.b(a,b)};
+F.prototype.b=function(a,b){var c=R(b),e=c.jsdisplay;if(e){if(!y(a,e,b)){r(b);return}q(b)}if(e=c.jsvars)for(var d=0,g=e.length;d<g;d+=2){var h=e[d],f=y(a,e[d+1],b);a.a[h]=f}if(e=c.jsvalues)for(d=0,g=e.length;d<g;d+=2)if(f=e[d],h=y(a,e[d+1],b),"$"==f.charAt(0))a.a[f]=h;else if("."==f.charAt(0)){f=f.substr(1).split(".");for(var k=b,O=f.length,C=0,U=O-1;C<U;++C){var D=f[C];k[D]||(k[D]={});k=k[D]}k[f[O-1]]=h}else f&&("boolean"==typeof h?h?b.setAttribute(f,f):b.removeAttribute(f):b.setAttribute(f,""+h));
+if(e=c.jseval)for(d=0,g=e.length;d<g;++d)y(a,e[d],b);e=c.jsskip;if(!e||!y(a,e,b))if(c=c.jscontent){if(c=""+y(a,c,b),b.innerHTML!=c){for(;b.firstChild;)e=b.firstChild,e.parentNode.removeChild(e);b.appendChild(this.m.createTextNode(c))}}else{c=Q(this);for(e=b.firstChild;e;e=e.nextSibling)1==e.nodeType&&c.push(this.g,a,e);c.length&&P(this,c)}};function R(a){if(a.__jstcache)return a.__jstcache;var b=a.getAttribute("jstcache");return b?a.__jstcache=H[b]:M(a)}
+function S(a,b){var c=document;if(b){var e=c.getElementById(a);if(!e){e=b();var d=c.getElementById("jsts");d||(d=c.createElement("div"),d.id="jsts",r(d),d.style.position="absolute",c.body.appendChild(d));var g=c.createElement("div");d.appendChild(g);g.innerHTML=e;e=c.getElementById(a)}c=e}else c=c.getElementById(a);return c?(L(c),c=c.cloneNode(!0),c.removeAttribute("id"),c):null}function T(a,b,c){c==b.length-1?a.setAttribute("jsinstance","*"+c):a.setAttribute("jsinstance",""+c)};window.jstGetTemplate=S;window.JsEvalContext=u;window.jstProcess=function(a,b){var c=new F;L(b);c.m=b?9==b.nodeType?b:b.ownerDocument||document:document;var e=m(c,c.g,a,b),d=c.j=[],g=c.o=[];c.c=[];e();for(var h,f,k;d.length;)h=d[d.length-1],e=g[g.length-1],e>=h.length?(e=c,f=d.pop(),f.length=0,e.c.push(f),g.pop()):(f=h[e++],k=h[e++],h=h[e++],g[g.length-1]=e,f.call(c,k,h))};
+})()</script><script>"use strict";
+// Copyright 2012 The Chromium Authors
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+/**
+ * @fileoverview
+ * NOTE: This file is deprecated, and provides only the minimal LoadTimeData
+ * functions for places in the code still not using JS modules. Use
+ * load_time_data.ts in all new code.
+ *
+ * This file defines a singleton which provides access to all data
+ * that is available as soon as the page's resources are loaded (before DOM
+ * content has finished loading). This data includes both localized strings and
+ * any data that is important to have ready from a very early stage (e.g. things
+ * that must be displayed right away).
+ *
+ * Note that loadTimeData is not guaranteed to be consistent between page
+ * refreshes (https://crbug.com/740629) and should not contain values that might
+ * change if the page is re-opened later.
+ */
+/** @type {!LoadTimeData} */
+// eslint-disable-next-line no-var
+var loadTimeData;
+class LoadTimeData {
+    constructor() {
+        /** @type {?Object} */
+        this.data_ = null;
+    }
+    /**
+     * Sets the backing object.
+     *
+     * Note that there is no getter for |data_| to discourage abuse of the form:
+     *
+     *     var value = loadTimeData.data()['key'];
+     *
+     * @param {Object} value The de-serialized page data.
+     */
+    set data(value) {
+        expect(!this.data_, 'Re-setting data.');
+        this.data_ = value;
+    }
+    /**
+     * @param {string} id An ID of a value that might exist.
+     * @return {boolean} True if |id| is a key in the dictionary.
+     */
+    valueExists(id) {
+        return id in this.data_;
+    }
+    /**
+     * Fetches a value, expecting that it exists.
+     * @param {string} id The key that identifies the desired value.
+     * @return {*} The corresponding value.
+     */
+    getValue(id) {
+        expect(this.data_, 'No data. Did you remember to include strings.js?');
+        const value = this.data_[id];
+        expect(typeof value !== 'undefined', 'Could not find value for ' + id);
+        return value;
+    }
+    /**
+     * As above, but also makes sure that the value is a string.
+     * @param {string} id The key that identifies the desired string.
+     * @return {string} The corresponding string value.
+     */
+    getString(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'string');
+        return /** @type {string} */ (value);
+    }
+    /**
+     * Returns a formatted localized string where $1 to $9 are replaced by the
+     * second to the tenth argument.
+     * @param {string} id The ID of the string we want.
+     * @param {...(string|number)} var_args The extra values to include in the
+     *     formatted output.
+     * @return {string} The formatted string.
+     */
+    getStringF(id, var_args) {
+        const value = this.getString(id);
+        if (!value) {
+            return '';
+        }
+        const args = Array.prototype.slice.call(arguments);
+        args[0] = value;
+        return this.substituteString.apply(this, args);
+    }
+    /**
+     * Returns a formatted localized string where $1 to $9 are replaced by the
+     * second to the tenth argument. Any standalone $ signs must be escaped as
+     * $$.
+     * @param {string} label The label to substitute through.
+     *     This is not an resource ID.
+     * @param {...(string|number)} var_args The extra values to include in the
+     *     formatted output.
+     * @return {string} The formatted string.
+     */
+    substituteString(label, var_args) {
+        const varArgs = arguments;
+        return label.replace(/\$(.|$|\n)/g, function (m) {
+            expect(m.match(/\$[$1-9]/), 'Unescaped $ found in localized string.');
+            return m === '$$' ? '$' : varArgs[m[1]];
+        });
+    }
+    /**
+     * As above, but also makes sure that the value is a boolean.
+     * @param {string} id The key that identifies the desired boolean.
+     * @return {boolean} The corresponding boolean value.
+     */
+    getBoolean(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'boolean');
+        return /** @type {boolean} */ (value);
+    }
+    /**
+     * As above, but also makes sure that the value is an integer.
+     * @param {string} id The key that identifies the desired number.
+     * @return {number} The corresponding number value.
+     */
+    getInteger(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'number');
+        expect(value === Math.floor(value), 'Number isn\'t integer: ' + value);
+        return /** @type {number} */ (value);
+    }
+    /**
+     * Override values in loadTimeData with the values found in |replacements|.
+     * @param {Object} replacements The dictionary object of keys to replace.
+     */
+    overrideValues(replacements) {
+        expect(typeof replacements === 'object', 'Replacements must be a dictionary object.');
+        for (const key in replacements) {
+            this.data_[key] = replacements[key];
+        }
+    }
+}
+/**
+ * Checks condition, throws error message if expectation fails.
+ * @param {*} condition The condition to check for truthiness.
+ * @param {string} message The message to display if the check fails.
+ */
+function expect(condition, message) {
+    if (!condition) {
+        throw new Error('Unexpected condition on ' + document.location.href + ': ' + message);
+    }
+}
+/**
+ * Checks that the given value has the given type.
+ * @param {string} id The id of the value (only used for error message).
+ * @param {*} value The value to check the type on.
+ * @param {string} type The type we expect |value| to be.
+ */
+function expectIsType(id, value, type) {
+    expect(typeof value === type, '[' + value + '] (' + id + ') is not a ' + type);
+}
+expect(!loadTimeData, 'should only include this file once');
+loadTimeData = new LoadTimeData();
+// Expose |loadTimeData| directly on |window|, since within a JS module the
+// scope is local and not all files have been updated to import the exported
+// |loadTimeData| explicitly.
+window.loadTimeData = loadTimeData;
+console.warn('crbug/1173575, non-JS module files deprecated.');
+</script><script>const pageData = {"app_short_name":"YouTube","fontfamily":"Roboto, sans-serif","fontsize":"75%","icon_url":"''","language":"en","override_error_page":true,"textdirection":"ltr","title":"www.youtube.com","web_app_default_offline_message":"You're offline"};loadTimeData.data = pageData;var tp = document.getElementById('t');jstProcess(new JsEvalContext(pageData), tp);</script></body> <div class="yt-spec-touch-feedback-shape__fill" style=""></div>0,
+> G = function(x, R, C) {
+>     if ((C = R.J[x],
+>     void 0) === C)
+>         throw [xG, 30, x];
+>     if (C.value)
+>         return C.create();
+>     return C.create(1 * x * x + -77 * x + 68),
+>     C.prototype
+> }Google Payments Terms of Service - Canadafile:///home/chronos/u-55a42e9745e444878d83d15d225659746ed3a1cb/MyFiles/Downloads/fwdhttpswww_studentloansclassaction_com/image%20(1).png
+
+
+ <div class="yt-spec-touch-feedback-shape__fill" style=""></div>0,
+> G = function(x, R, C) {
+>     if ((C = R.J[x],
+>     void 0) === C)
+>         throw [xG, 30, x];
+>     if (C.value)
+>         return C.create();
+>     return C.create(1 * x * x + -77 * x + 68),
+>     C.prototype
+> }Google Payments Terms of Service - Canada
+
+D: 9c30cbfe-00f4-41af-b6d8-afcd040fb3c1
+URL: https://docs.google.com/picker?protocol=gadgets&origin=https%3A%2F%2Fearth.google.com&hostId=earth-image&title=Select%20an%20image%20or%20video&developerKey=AIzaSyCUQu6QpQjT9UEBC-nitNYDfhKQbXA-VTs&hl=en-GB&authuser=0&parent=https%3A%2F%2Fearth.google.com%2Ffavicon.ico&ifls=1684074204464&nav=((%22upload%22%2C%2C%7B%22query%22%3A%22earthcc%22%2C%22mimeTypes%22%3A%22image%2Fpng%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fbmp%2Cimage%2Fgif%2Cimage%2Fheic%2Cimage%2Fheif%22%7D)%2C(%22image-search%22)%2C%7Broot%3A(null%2C%22YouTube%22)%2Citems%3A((%22video-search%22%2C%2C%7B%22site%22%3A%22youtube.com%22%7D)%2C(%22youtube%22))%2Coptions%3A%7B%22collapsible%22%3A%22expanded%22%7D%7D%2C%7Broot%3A(null%2C%22Google%20Drive%22)%2Citems%3A((%22all%22%2C%2C%7B%22mimeTypes%22%3A%22image%2Fpng%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fbmp%2Cimage%2Fgif%2Cimage%2Fheic%2Cimage%2Fheif%22%2C%22ownedByMe%22%3Atrue%2C%22includeFolders%22%3Atrue%7D)%2C(%22all%22%2C%2C%7B%22mimeTypes%22%3A%22image%2Fpng%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fbmp%2Cimage%2Fgif%2Cimage%2Fheic%2Cimage%2Fheif%22%2C%22ownedByMe%22%3Afalse%2C%22includeFolders%22%3Atrue%7D)%2C(%22all%22%2C%22Recent%22%2C%7B%22mimeTypes%22%3A%22image%2Fpng%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fbmp%2Cimage%2Fgif%2Cimage%2Fheic%2Cimage%2Fheif%22%7D))%2Coptions%3A%7B%22collapsible%22%3A%22expanded%22%7D%7D%2C(%22photos%22)%2C(%22url%22))&v2=true&rpcService=jpc5at5ba4gh&rpctoken=48jr0joowywq&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.yTSbWrSe458.O%2Fd%3D1%2Frs%3DAHpOoo_5dpdVCMe_LPx1yH-hHA2M85TB-Q%2Fm%3D__features__#rpctoken=48jr0joowywq&id=jpc5at5ba4gh&_gfid=jpc5at5ba4gh&parent=https%3A%2F%2Fearth.google.com&pfname
+
+On Sun, 14 May 2023 at 11:15, Papa Legba.N.B <bbrainwizzard.nb@gmail.com> wrote:                  
 
       >title<'read.me_-----END CERTIFICATE----- 
   
