@@ -970,8 +970,864 @@ https://newbrun506.blogspot.com/?m=https://www.google.com/search?q=%3CPapa+Legba
 }<iframe width="380" height="390" src="https://www.youtube.com/embed/M7lc1UVf-VE" title="YouTube Developers Live: Embedded Web Player Customization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><Re: IMG_0196.png (1170×2532) "use strict"; (globalThis.webpackChunk = globalThis.webpackChunk || []).push([["vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-a4c183"], { 28382: (t,e,r)=>{ r.d(e, { Q: ()=>o }); var n = ""; function o(t) { return t.split("\n").reduce(function(t, e) { var r = a(e) || p(e) || f(e) || m(e) || y(e); return r && t.push(r), t }, []) } var i = /^\sat (.?) ?(((?:file|https?|blob|chrome-extension|native|eval|webpack||/|[a-z]:\|\\).?)(?::(\d+))?(?::(\d+))?)?\s$/i , l = /((\S*)(?::(\d+))(?::(\d+)))/; function a(t) { var e = i.exec(t); if (!e) return null; var r = e[2] && 0 === e[2].indexOf("native") , o = e[2] && 0 === e[2].indexOf("eval") , a = l.exec(e[2]); return o && null != a && (e[2] = a[1], e[3] = a[2], e[4] = a[3]), { file: r ? null : e[2], methodName: e[1] || n, arguments: r ? [e[2]] : [], lineNumber: e[3] ? +e[3] : null, column: e[4] ? +e[4] : null } } var u = /^\sat (?:((?:[object object])?.+) )?(?((?:file|ms-appx|https?|webpack|blob):.?):(\d+)(?::(\d+))?)?\s*$/i; function p(t) { var e = u.exec(t); return e ? { file: e[2], methodName: e[1] || n, arguments: [], lineNumber: +e[3], column: e[4] ? +e[4] : null } : null } var c = /^\s*(.?)(?:((.?)))?(?:^|@)((?:file|https?|blob|chrome|webpack|resource|[native).?|[^@]bundle)(?::(\d+))?(?::(\d+))?\s$/i , s = /(\S+) line (\d+)(?: > eval line \d+) > eval/i; function f(t) { var e = c.exec(t); if (!e) return null; var r = e[3] && e[3].indexOf(" > eval") > -1 , o = s.exec(e[3]); return r && null != o && (e[3] = o[1], e[4] = o[2], e[5] = null), { file: e[3], methodName: e[1] || n, arguments: e[2] ? e[2].split(",") : [], lineNumber: e[4] ? +e[4] : null, column: e[5] ? +e[5] : null } } var d = /^\s*(?:([^@])(?:((.?)))?@)?(\S.?):(\d+)(?::(\d+))?\s$/i; function y(t) { var e = d.exec(t); return e ? { file: e[3], methodName: e[1] || n, arguments: [], lineNumber: +e[4], column: e[5] ? +e[5] : null } : null } var b = /^\sat (?:((?:[object object])?[^\\/]+(?: [as \S+])?) )?(?(.?):(\d+)(?::(\d+))?)?\s*$/i; function m(t) { var e = b.exec(t); return e ? { file: e[2], methodName: e[1] || n, arguments: [], lineNumber: +e[3], column: e[4] ? +e[4] : null } : null } } , 97733: (t,e,r)=>{ function n() { let t = new Uint32Array(4); crypto.getRandomValues(t); let e = -1; return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, function(r) { e++; let n = t[e >> 3] >> e % 8 * 4 & 15; return ("x" === r ? n : 3 & n | 8).toString(16) }) } function o() { return "object" == typeof crypto && "randomUUID"in crypto && "function" == typeof crypto.randomUUID } function i() { return o() && crypto.randomUUID === n } function l() { o() || (crypto.randomUUID = n) } r.r(e), r.d(e, { apply: ()=>l, isPolyfilled: ()=>i, isSupported: ()=>o, randomUUID: ()=>n }) } , 83314: (t,e,r)=>{ r.d(e, { nn: ()=>tO, Gb: ()=>tP }); var n = {}; r.r(n), r.d(n, { abortSignalAbort: ()=>g, apply: ()=>S, isPolyfilled: ()=>v, isSupported: ()=>h }); var o = {}; r.r(o), r.d(o, { abortSignalTimeout: ()=>x, apply: ()=>E, isPolyfilled: ()=>A, isSupported: ()=>w }); var i = {}; r.r(i), r.d(i, { AggregateError: ()=>AggregateError, apply: ()=>P, isPolyfilled: ()=>T, isSupported: ()=>C }); var l = {}; r.r(l), r.d(l, { apply: ()=>D, arrayLikeAt: ()=>j, isPolyfilled: ()=>I, isSupported: ()=>k }); var a = {}; r.r(a), r.d(a, { ClipboardItem: ()=>clipboarditem_ClipboardItem, apply: ()=>N, isPolyfilled: ()=>L, isSupported: ()=>_ }); var u = {}; r.r(u), r.d(u, { apply: ()=>H, isPolyfilled: ()=>$, isSupported: ()=>R, replaceChildren: ()=>F }); var p = {}; r.r(p), r.d(p, { addEventListenerWithAbortSignal: ()=>z, apply: ()=>V, isPolyfilled: ()=>G, isSupported: ()=>B }); var c = {}; r.r(c), r.d(c, { apply: ()=>X, clipboardRead: ()=>Q, clipboardWrite: ()=>J, isPolyfilled: ()=>K, isSupported: ()=>Z }); var s = {}; r.r(s), r.d(s, { apply: ()=>tr, isPolyfilled: ()=>te, isSupported: ()=>tt, requestSubmit: ()=>Y }); var f = {}; r.r(f), r.d(f, { apply: ()=>ta, isPolyfilled: ()=>tl, isSupported: ()=>ti, objectHasOwn: ()=>to }); var d = {}; r.r(d), r.d(d, { apply: ()=>ts, isPolyfilled: ()=>tc, isSupported: ()=>tp, promiseAllSettled: ()=>tu }); var y = {}; r.r(y), r.d(y, { apply: ()=>tb, isPolyfilled: ()=>ty, isSupported: ()=>td, promiseAny: ()=>tf }); var b = {}; r.r(b), r.d(b, { apply: ()=>tS, cancelIdleCallback: ()=>tg, isPolyfilled: ()=>tv, isSupported: ()=>th, requestIdleCallback: ()=>tm }); var m = {}; function g(t) { let e = new AbortController; return e.abort(t), e.signal } function h() { return "abort"in AbortSignal && "function" == typeof AbortSignal.abort } function v() { return AbortSignal.abort === g } function S() { h() || (AbortSignal.abort = g) } function x(t) { let e = new AbortController; return setTimeout(()=>e.abort(new DOMException("TimeoutError")), t), e.signal } function w() { return "abort"in AbortSignal && "function" == typeof AbortSignal.timeout } function A() { return AbortSignal.timeout === x } function E() { w() || (AbortSignal.timeout = x) } r.r(m), r.d(m, { apply: ()=>tE, isPolyfilled: ()=>tA, isSupported: ()=>tw, stringReplaceAll: ()=>tx }); let AggregateError = class AggregateError extends Error { constructor(t, e, r={}) { super(e), Object.defineProperty(this, "errors", { value: Array.from(t), configurable: !0, writable: !0 }), r.cause && Object.defineProperty(this, "cause", { value: r.cause, configurable: !0, writable: !0 }) } } ; function C() { return "function" == typeof globalThis.AggregateError } function T() { return globalThis.AggregateError === AggregateError } function P() { C() || (globalThis.AggregateError = AggregateError) } let O = Reflect.getPrototypeOf(Int8Array); function j(t) { let e = this.length; return (t = Math.trunc(t) || 0) < 0 && (t += e), t < 0 || t >= e ? void 0 : this[t] } function k() { return "at"in Array.prototype && "function" == typeof Array.prototype.at && "at"in String.prototype && "function" == typeof String.prototype.at && "function" == typeof O && "at"in O.prototype && "function" == typeof O.prototype.at } function I() { return Array.prototype.at === j && String.prototype.at === j && "function" == typeof O && O.prototype.at === j } function D() { if (!k()) { let t = { value: j, writable: !0, configurable: !0 }; Object.defineProperty(Array.prototype, "at", t), Object.defineProperty(String.prototype, "at", t), Object.defineProperty(O, "at", t) } } let M = new WeakMap , U = new WeakMap; let clipboarditem_ClipboardItem = class clipboarditem_ClipboardItem { constructor(t, e={}) { if (0 === Object.keys(t).length) throw TypeError("Empty dictionary argument"); M.set(this, t), U.set(this, e.presentationStyle || "unspecified") } get presentationStyle() { return U.get(this) || "unspecified" } get types() { return Object.freeze(Object.keys(M.get(this) || {})) } async getType(t) { let e = M.get(this); if (e && t in e) { let r = await e[t]; return "string" == typeof r ? new Blob([r],{ type: t }) : r } throw new DOMException("Failed to execute 'getType' on 'ClipboardItem': The type was not found","NotFoundError") } } ; function _() { try { return new globalThis.ClipboardItem({ "text/plain": Promise.resolve("") }), !0 } catch { return !1 } } function L() { return globalThis.ClipboardItem === clipboarditem_ClipboardItem } function N() { _() || (globalThis.ClipboardItem = clipboarditem_ClipboardItem) } var q = r(97733); function F(...t) { for (; this.firstChild; ) this.removeChild(this.firstChild); this.append(...t) } function R() { return "replaceChildren"in Element.prototype && "function" == typeof Element.prototype.replaceChildren && "replaceChildren"in Document.prototype && "function" == typeof Document.prototype.replaceChildren && "replaceChildren"in DocumentFragment.prototype && "function" == typeof DocumentFragment.prototype.replaceChildren } function $() { return Element.prototype.replaceChildren === F && Document.prototype.replaceChildren === F && DocumentFragment.prototype.replaceChildren === F } function H() { R() || (Element.prototype.replaceChildren = Document.prototype.replaceChildren = DocumentFragment.prototype.replaceChildren = F) } let W = EventTarget.prototype.addEventListener; function z(t, e, r) { if ("object" == typeof r && "signal"in r && r.signal instanceof AbortSignal) { if (r.signal.aborted) return; W.call(r.signal, "abort", ()=>{ this.removeEventListener(t, e, r) } ) } return W.call(this, t, e, r) } function B() { let t = !1 , e = ()=>t = !0; function r() {} let n = Object.create({}, { signal: { get: e } }); try { let e = new EventTarget; return e.addEventListener("test", r, n), e.removeEventListener("test", r, n), t } catch { return t } } function G() { return EventTarget.prototype.addEventListener === z } function V() { "function" != typeof AbortSignal || B() || (EventTarget.prototype.addEventListener = z) } async function J(t) { if (0 === t.length) return; let e = t[0] , r = await e.getType(e.types.includes("text/plain") ? "text/plain" : e.types[0]); return navigator.clipboard.writeText("string" == typeof r ? r : await r.text()) } async function Q() { let t = navigator.clipboard.readText(); return [new ClipboardItem({ "text/plain": t })] } function Z() { return "function" == typeof navigator.clipboard.read && "function" == typeof navigator.clipboard.write } function K() { return navigator.clipboard.write === J || navigator.clipboard.read === Q } function X() { Z() || (navigator.clipboard.write = J, navigator.clipboard.read = Q) } function Y(t=null) { let e; let r = new SubmitEvent("submit",{ bubbles: !0, cancelable: !0, submitter: t }); t && t.name && (e = Object.assign(document.createElement("input"), { type: "hidden", hidden: !0, name: t.name, value: t.value }), this.append(e)), this.checkValidity() && !this.dispatchEvent(r) && this.submit(), e?.remove() } function tt() { return "requestSubmit"in HTMLFormElement.prototype && "function" == typeof HTMLFormElement.prototype.requestSubmit } function te() { return HTMLFormElement.prototype.requestSubmit === Y } function tr() { tt() || (HTMLFormElement.prototype.requestSubmit = Y) } let tn = Object.prototype.hasOwnProperty; function to(t, e) { if (null == t) throw TypeError("Cannot convert undefined or null to object"); return tn.call(Object(t), e) } function ti() { return "hasOwn"in Object && "function" == typeof Object.hasOwn } function tl() { return Object.hasOwn === to } function ta() { ti() || Object.defineProperty(Object, "hasOwn", { value: to, configurable: !0, writable: !0 }) } function tu(t) { return Promise.all(t.map(t=>Promise.resolve(t).then(t=>({ status: "fulfilled", value: t }), t=>({ status: "rejected", reason: t })))) } function tp() { return "allSettled"in Promise && "function" == typeof Promise.allSettled } function tc() { return Promise.all === tu } function ts() { tp() || (Promise.allSettled = tu) } function tf(t) { return new Promise((e,r)=>{ let n = !1 , o = Array.from(t) , i = []; function l(t) { n || (n = !0, e(t)) } function a(t) { i.push(t), i.length === o.length && r(new globalThis.AggregateError(i,"All Promises rejected")) } for (let t of o) Promise.resolve(t).then(l, a) } ) } function td() { return "any"in Promise && "function" == typeof Promise.any } function ty() { return Promise.all === tf } function tb() { td() || (Promise.any = tf) } function tm(t, e={}) { let r = Date.now() , n = e.timeout || 0 , o = Object.defineProperty({ didTimeout: !1, timeRemaining: ()=>Math.max(0, 50 - (Date.now() - r)) }, "didTimeout", { get: ()=>Date.now() - r > n }); return window.setTimeout(()=>{ t(o) } ) } function tg(t) { clearTimeout(t) } function th() { return "function" == typeof globalThis.requestIdleCallback } function tv() { return globalThis.requestIdleCallback === tm && globalThis.cancelIdleCallback === tg } function tS() { th() || (globalThis.requestIdleCallback = tm, globalThis.cancelIdleCallback = tg) } function tx(t, e) { if (t instanceof RegExp) return this.replace(t, e); let r = -1 , n = 0 , o = ""; if ("function" == typeof e) { let n = e; e = ()=>n(t, r, this) } for (r = this.indexOf(t, r + 1); -1 !== r; ) o += this.substring(n, r) + t.replace(t, e), n = r + t.length, r = this.indexOf(t, r + 1); return o + this.substring(n) } function tw() { return "replaceAll"in String.prototype && "function" == typeof String.prototype.replaceAll } function tA() { return String.prototype.replaceAll === tx } function tE() { tw() || (String.prototype.replaceAll = tx) } let tC = "function" == typeof Blob && "function" == typeof PerformanceObserver && "object" == typeof Intl && "function" == typeof MutationObserver && "function" == typeof URLSearchParams && "function" == typeof WebSocket && "function" == typeof IntersectionObserver && "function" == typeof queueMicrotask && "function" == typeof TextEncoder && "function" == typeof TextDecoder && "object" == typeof customElements && "function" == typeof HTMLDetailsElement && "function" == typeof AbortController && "function" == typeof AbortSignal && "object" == typeof globalThis && "entries"in FormData.prototype && "toggleAttribute"in Element.prototype && "fromEntries"in Object && "flatMap"in Array.prototype && "trimEnd"in String.prototype && "matchAll"in String.prototype , tT = { abortSignalAbort: n, abortSignalTimeout: o, aggregateError: i, arrayAt: l, clipboardItem: a, cryptoRandomUUID: q, elementReplaceChildren: u, eventAbortSignal: p, navigatorClipboard: c, formRequestSubmit: s, objectHasOwn: f, promiseAllSettled: d, promiseAny: y, requestIdleCallback: b, stringReplaceAll: m }; function tP() { return tC && Object.values(tT).every(t=>t.isSupported()) } function tO() { for (let t of Object.values(tT)) t.apply() } } , 82918: (t,e,r)=>{ let n; function o() { return ${Math.round(2147483647 * Math.random())}.${Math.round(Date.now() / 1e3)} } function i(t) { let e = GH1.1.${t} , r = Date.now() , n = new Date(r + 31536e6).toUTCString() , {domain: o} = document; o.endsWith(".github.com") && (o = "github.com"), document.cookie = _octo=${e}; expires=${n}; path=/; domain=${o}; secure; samesite=lax } function l() { let t; let e = document.cookie , r = e.match(/octo=([^;]+)/g); if (!r) return; let n = [0, 0]; for (let e of r) { let[,r] = e.split("=") , [,o,...i] = r.split(".") , l = o.split("-").map(Number); l > n && (n = l, t = i.join(".")) } return t } function a() { try { let t = l(); if (t) return t; let e = o(); return i(e), e } catch (t) { return n || (n = o()), n } } r.d(e, { b: ()=>a }) } , 15205: (t,e,r)=>{ function n(...t) { return JSON.stringify(t, (t,e)=>"object" == typeof e ? e : String(e)) } function o(t, e={}) { let {hash: r=n, cache: o=new Map} = e; return function(...e) { let n = r.apply(this, e); if (o.has(n)) return o.get(n); let i = t.apply(this, e); return i instanceof Promise && (i = i.catch(t=>{ throw o.delete(n), t } )), o.set(n, i), i } } r.d(e, { Z: ()=>o }) } }]); //# sourceMappingURL=vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm
 
 On Mon, May 8, 2023, 10:54 p.m. Papa Legba.N.B bbrainwizzard.nb@gmail.com wrote:
-
-https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1V4U1Rgis9a-xLcDAsRjUl6kuw8YLsKlR_Qv_evgOAw8DTce0ojPKABxkkbsHT_lkG8KVhzD5BBKvtkM4-CUZl7o8ys4rozYcYhXJl82X3fwX6qfTp8_VVeefZUXYrmMrQWZ4keE0Vc0OuZ5K3s0fiZ0jbVFF9NcJmzIx3zaO8mIJ72tm46of1Ijh/s2532/IMG_0196.png
+<!DOCTYPE html>
+<html lang="th">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="newcss.css">
+        <title>YouTube</title>
+    </head>  
+    <body class="ltr webkit webkit-537 exp-innertube-history exp-responsive-masthead exp-skywatch site-center-aligned site-as-giant-card appbar-hidden not-nirvana-dogfood not-yt-legacy-css flex-width-enabled flex-width-enabled-snap page-loaded" id="body">
+        <div id="body-container">
+            <div id="masthead-positioner">  
+                <div id="yt-masthead-container" class="clearfix yt-base-gutter">
+                    <div id="yt-masthead">
+                        <div class="yt-masthead-logo-container ">    
+                            <a id="logo-container" href="#" class="spf-link yt-uix-sessionlink">
+                                <img id="logo" src="pixel-vfl3z5WfW.gif">
+                                <span class="content-region">TH</span>
+                            </a>
+                            <a href="#" class="spf-link yt-uix-sessionlink">
+                                <span class="mini-logo yt-sprite"></span>
+                            </a>
+                            <div id="appbar-guide-button-container">
+                                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button">
+                                    <span class="yt-uix-button-icon-wrapper">
+                                        <span class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite"></span>
+                                    </span>
+                                    <span class="yt-uix-button-arrow yt-sprite"></span>
+                                </button>
+                                <div id="appbar-guide-button-notification-check" class="yt-valign">
+                                    <span class="appbar-guide-notification-icon yt-valign-content yt-sprite"></span>
+                                </div>
+                            </div>
+                            <div id="appbar-main-guide-notification-container"></div>
+                        </div>
+                        <div id="yt-masthead-signin">
+                            <span id="appbar-onebar-upload-group">
+                                <a href="#" class="yt-uix-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" id="upload-btn">
+                                    <span class="yt-uix-button-content">อัปโหลด </span>
+                                </a>
+                            </span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button">
+                                <span class="yt-uix-button-content">ลงชื่อเข้าใช้ </span>
+                            </button>
+                        </div>
+                        <div id="yt-masthead-content">
+                            <form id="masthead-search" class="search-form consolidated-form">
+                                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" id="search-btn" dir="ltr" tabindex="2">
+                                    <span class="yt-uix-button-content">ค้นหา </span>
+                                </button>
+                                <div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr">
+                                    <label>
+                                        <input id="masthead-search-term" class="search-term yt-uix-form-input-bidi" name="search_query" type="text">
+                                    </label>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="masthead-positioner-height-offset"></div>
+            <div id="page-container">
+                <div id="page" class="watch clearfix watch-stage-mode">
+                    <div id="header"></div>
+                    <div id="player" class="  content-alignment watch-medium" role="complementary">
+                        <div id="theater-background" class="player-height"></div>  
+                        <div id="player-mole-container">
+                            <div id="player-api" class="player-width player-height off-screen-target player-api" style="overflow: hidden;">
+                                <div class="html5-video-player el-detailpage ps-null hide-info-bar autohide-controls-aspect autohide-controls-fullscreen autominimize-progress-bar-non-aspect ytp-block-autohide iv-module-created iv-module-loaded endscreen-created paused-mode" id="movie_player" >
+                                    <div class="html5-video-controls">
+                                        <div class="ytp-progress-bar-container" style="height: 8px;">
+                                            <div class="html5-progress-bar ytp-force-transform red" style="width: 854px;">
+                                                <div class="ytp-progress-list">
+                                                    <div class="ytp-unloaded-progress" style="left: 0%; transform: scaleX(1);"></div>
+                                                    <div class="ytp-play-progress" style="left: 0%; transform: scaleX(0.000216163341434179);"></div>
+                                                    <div class="ytp-load-progress" style="left: 0%; transform: scaleX(0.0518168069253362);"></div>
+                                                    <div class="ytp-clip-start-exclude" style="width: 0%;"></div>
+                                                    <div class="ytp-clip-end-exclude" style="left: 100%; width: 0%;"></div>
+                                                    <div class="html5-ad-progress-list"></div>
+                                                    <div class="ytp-marker-crenellation-list"></div>
+                                                    <div class="ytp-marker-progress-list"></div></div>
+                                                <div class="ytp-scrubber-pull-indicator" style="left: 8.18135724223219px;"></div>
+                                                <div class="html5-scrubber-button" style="height: 6px; transform-origin: 0% 50% 0px; left: 8.18135724223219px;"></div></div>
+                                        </div>
+                                        <div class="html5-player-chrome">
+                                            <div class="ytp-button ytp-button-play"></div>
+                                            <div class="ytp-button ytp-button-next"></div>
+                                            <span class="ytp-volume-hover-area">
+                                                <div class="ytp-volume-control">
+                                                    <div class="ytp-button ytp-button-volume"></div>
+                                                </div>
+                                                <div class="ytp-time-display html5-control" aria-hidden="true">
+                                                    <span class="ytp-time-current">0:00</span>
+                                                    <span class="ytp-time-separator"> / </span>
+                                                    <span class="ytp-time-duration">9:99:99</span>
+                                                </div>   
+                                            </span>
+                                            <div class="ytp-button ytp-button-fullscreen-enter" style="display: inline-block;"></div>
+                                            <div class="ytp-button ytp-size-toggle-small ytp-button-pressed" style="display: inline-block;"></div>
+                                            <div class="ytp-button ytp-settings-button"></div>
+                                            <div class="ytp-button ytp-button-watch-later"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>  
+                        </div>
+                    </div>
+                    <div id="content" class="  content-alignment  " role="main">  
+                        <div id="watch7-container" class="watch-wide">
+                            <div id="watch7-main-container">
+                                <div id="watch7-main" class="clearfix">
+                                    <div id="watch7-content" class="watch-main-col ">                                        
+                                        <div id="watch-header" class="yt-card yt-card-has-padding">
+                                            <div id="watch7-headline" class="clearfix">
+                                                <div id="watch-headline-title">
+                                                    <h1 class="yt watch-title-container">
+                                                        <span id="eow-title" class="watch-title long-title">
+                                                            XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                                        </span>
+                                                    </h1>
+                                                </div>
+                                            </div>
+                                            <div id="watch7-user-header" class=" spf-link ">  
+                                                <span class="video-thumb yt-thumb yt-thumb-48 g-hovercard">
+                                                    <span class="yt-thumb-square">
+                                                        <span class="yt-thumb-clip">
+                                                            <img src="photo_1.jpg" width="48" height="48">
+                                                            <span class="vertical-align"></span>
+                                                        </span>
+                                                    </span>
+                                                </span>
+                                                <div class="yt-user-info">
+                                                    <a href="#" class="yt-uix-sessionlink spf-link g-hovercard">XXXX XXXXXX</a>
+                                                </div>
+                                                <span id="watch7-subscription-container">
+                                                    <span class=" yt-uix-button-subscription-container">
+                                                        <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-subscribe-branded yt-uix-button-has-icon no-icon-markup yt-can-buffer yt-uix-subscription-button" type="button">
+                                                            <span class="yt-uix-button-content">
+                                                                <span class="subscribe-label">ติดตาม</span>
+                                                            </span>
+                                                        </button>
+                                                        <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon yt-uix-subscription-preferences-button" type="button">
+                                                            <span class="yt-uix-button-icon-wrapper">
+                                                                <span class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences yt-sprite"></span>
+                                                            </span>
+                                                        </button>
+                                                        <span class="yt-subscription-button-subscriber-count-branded-horizontal"tabindex="0">999,999,999</span>  
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div id="watch8-action-buttons" class="watch-action-buttons clearfix">
+                                                <div id="watch8-secondary-actions" class="watch-secondary-actions yt-uix-button-group" data-button-toggle-group="optional">    
+                                                    <div class="yt-uix-menu yt-uix-videoactionmenu " data-menu-content-id="yt-uix-videoactionmenu-menu">
+                                                        <div class="yt-uix-menu-trigger">
+                                                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-videoactionmenu-button addto-button yt-uix-tooltip" type="button">
+                                                                <span class="yt-uix-button-content">เพิ่มลงใน 
+                                                                </span>
+                                                            </button>
+                                                        </div>
+                                                    </div>
+                                                    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup action-panel-trigger action-panel-trigger-share   yt-uix-tooltip" type="button">
+                                                        <span class="yt-uix-button-content">แชร์
+                                                        </span>
+                                                    </button>
+                                                    <div class="yt-uix-menu ">
+                                                        <div class="yt-uix-menu-trigger">
+                                                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-tooltip" type="button">
+                                                                <span class="yt-uix-button-content">เพิ่มเติม 
+                                                                </span>
+                                                            </button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div id="watch8-sentiment-actions">
+                                                    <div id="watch7-views-info">
+                                                        <div class="watch-view-count">999,999,999</div>
+                                                        <div class="video-extras-sparkbars">
+                                                            <div class="video-extras-sparkbar-likes" style="width: 50%"></div>
+                                                            <div class="video-extras-sparkbar-dislikes" style="width: 50%"></div>
+                                                        </div>
+                                                    </div>
+                                                    <span id="watch-like-dislike-buttons" class="yt-uix-button-group actionable" data-button-toggle-group="optional">
+                                                        <span>
+                                                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-tooltip" type="button" id="watch-like">
+                                                                <span class="yt-uix-button-content">999,999</span>
+                                                            </button>
+                                                        </span>
+                                                        <span>
+                                                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-tooltip" type="button" id="watch-dislike">
+                                                                <span class="yt-uix-button-content">999,999</span>
+                                                            </button> 
+                                                        </span>   
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="action-panel-details" class="action-panel-content yt-card yt-card-has-padding yt-uix-expander yt-uix-expander-collapsed">
+                                            <div id="watch-description" class="yt-uix-button-panel">
+                                                <div id="watch-description-content">
+                                                    <div id="watch-description-clip">
+                                                        <div id="watch-uploader-info">
+                                                            <strong class="watch-time-text">เผยแพร่เมื่อ 01 ม.ค. 2015</strong>
+                                                        </div>
+                                                        <div id="watch-description-text" class="">
+                                                            <p id="eow-description">XXXXXXXXXX</p>
+                                                        </div>  
+                                                    </div>       
+                                                </div>        
+                                            </div>  
+                                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander yt-uix-expander-head yt-uix-expander-collapsed-body yt-uix-gen204" type="button">
+                                                <span class="yt-uix-button-content">แสดงเพิ่มเติม </span>
+                                            </button>
+                                        </div>
+                                        <div id="watch-discussion" class="yt-card branded-page-box scrolldetect">
+                                            <div class="comments-iframe-container">
+                                                <div id="comments-test-iframe" 
+                                                     style="text-indent: 0px; 
+                                                     margin: 0px; 
+                                                     padding: 0px; 
+                                                     border-style: none; 
+                                                     float: none; 
+                                                     line-height: normal; 
+                                                     font-size: 1px; 
+                                                     vertical-align: baseline; 
+                                                     display: inline-block; 
+                                                     width: 613px; 
+                                                     height: 500px; 
+                                                     background: transparent;">
+                                                    <div class="ju">
+                                                        <div class="ki">
+                                                            <div class="ve oba HPa">
+                                                                <span role="button" class="d-s xw if" title="เมนูตัวเลือก"</span>
+                                                                <a href="http://www.youtube.com/profile_redirector/103191741916631069293" target="_blank">
+                                                                    <img src="photo_1.jpg" width="48px" height="48px" alt="" class="Uk vKa"></a>
+                                                                <div class="f5 wy">
+                                                                    <header class="lea">
+                                                                        <h3 class="Mpa">
+                                                                            <a href="#">
+                                                                                <span class="Ub gna">XXXX XXXXX</span>
+                                                                            </a>
+                                                                        </h3>
+                                                                        <span class="Ve">
+                                                                            <span class="PL">
+                                                                                <a href="#" target="_blank" rel="noreferrer" class="o-U-s FI Rg">9 เดือนที่ผ่านมา</a>
+                                                                            </span>
+                                                                            <div class="E4a tKa"></div>
+                                                                        </span>
+                                                                        <div class="hWa D4a"></div>
+                                                                    </header>
+                                                                </div>
+                                                                <div class="C4a a2"></div>
+                                                                <div class="pf Al">
+                                                                    <div class="Xx xJ">
+                                                                        <div class="Ig At dn">
+                                                                            <div class="Bt Pm" style="max-height: 68px;">
+                                                                                <div class="Ct">
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span role="button" class="d-s Yv on  gj" tabindex="0">
+                                                                                อ่านเพิ่มเติม (99 บรรทัด)
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="REa Sea">
+                                                                    <div tabindex="0" role="button" class="RN g8b">
+                                                                        <span class="uPc bmd">99</span>
+                                                                        <img class="SQb MJa" src="//ssl.gstatic.com/s2/oz/images/cleardot.gif"></div>
+                                                                    <div class="RN f8b">
+                                                                        <img class="RQb LJa" src="//ssl.gstatic.com/s2/oz/images/cleardot.gif"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <div class="ju">
+                                                        <div class="ki">
+                                                            <div class="ve oba HPa">
+                                                                <span role="button" class="d-s xw if" title="เมนูตัวเลือก"</span>
+                                                                <a href="http://www.youtube.com/profile_redirector/103191741916631069293" target="_blank">
+                                                                    <img src="photo_1.jpg" width="48px" height="48px" alt="" class="Uk vKa"></a>
+                                                                <div class="f5 wy">
+                                                                    <header class="lea">
+                                                                        <h3 class="Mpa">
+                                                                            <a href="#">
+                                                                                <span class="Ub gna">XXXX XXXXX</span>
+                                                                            </a>
+                                                                        </h3>
+                                                                        <span class="Ve">
+                                                                            <span class="PL">
+                                                                                <a href="#" target="_blank" rel="noreferrer" class="o-U-s FI Rg">9 เดือนที่ผ่านมา</a>
+                                                                            </span>
+                                                                            <div class="E4a tKa"></div>
+                                                                        </span>
+                                                                        <div class="hWa D4a"></div>
+                                                                    </header>
+                                                                </div>
+                                                                <div class="C4a a2"></div>
+                                                                <div class="pf Al">
+                                                                    <div class="Xx xJ">
+                                                                        <div class="Ig At dn">
+                                                                            <div class="Bt Pm" style="max-height: 68px;">
+                                                                                <div class="Ct">
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span role="button" class="d-s Yv on  gj" tabindex="0">
+                                                                                อ่านเพิ่มเติม (99 บรรทัด)
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="REa Sea">
+                                                                    <div tabindex="0" role="button" class="RN g8b">
+                                                                        <span class="uPc bmd">99</span>
+                                                                        <img class="SQb MJa" src="//ssl.gstatic.com/s2/oz/images/cleardot.gif"></div>
+                                                                    <div class="RN f8b">
+                                                                        <img class="RQb LJa" src="//ssl.gstatic.com/s2/oz/images/cleardot.gif"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <div class="ju">
+                                                        <div class="ki">
+                                                            <div class="ve oba HPa">
+                                                                <span role="button" class="d-s xw if" title="เมนูตัวเลือก"</span>
+                                                                <a href="http://www.youtube.com/profile_redirector/103191741916631069293" target="_blank">
+                                                                    <img src="photo_1.jpg" width="48px" height="48px" alt="" class="Uk vKa"></a>
+                                                                <div class="f5 wy">
+                                                                    <header class="lea">
+                                                                        <h3 class="Mpa">
+                                                                            <a href="#">
+                                                                                <span class="Ub gna">XXXX XXXXX</span>
+                                                                            </a>
+                                                                        </h3>
+                                                                        <span class="Ve">
+                                                                            <span class="PL">
+                                                                                <a href="#" target="_blank" rel="noreferrer" class="o-U-s FI Rg">9 เดือนที่ผ่านมา</a>
+                                                                            </span>
+                                                                            <div class="E4a tKa"></div>
+                                                                        </span>
+                                                                        <div class="hWa D4a"></div>
+                                                                    </header>
+                                                                </div>
+                                                                <div class="C4a a2"></div>
+                                                                <div class="pf Al">
+                                                                    <div class="Xx xJ">
+                                                                        <div class="Ig At dn">
+                                                                            <div class="Bt Pm" style="max-height: 68px;">
+                                                                                <div class="Ct">
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span role="button" class="d-s Yv on  gj" tabindex="0">
+                                                                                อ่านเพิ่มเติม (99 บรรทัด)
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="REa Sea">
+                                                                    <div tabindex="0" role="button" class="RN g8b">
+                                                                        <span class="uPc bmd">99</span>
+                                                                        <img class="SQb MJa" src="//ssl.gstatic.com/s2/oz/images/cleardot.gif"></div>
+                                                                    <div class="RN f8b">
+                                                                        <img class="RQb LJa" src="//ssl.gstatic.com/s2/oz/images/cleardot.gif"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <div class="ju">
+                                                        <div class="ki">
+                                                            <div class="ve oba HPa">
+                                                                <span role="button" class="d-s xw if" title="เมนูตัวเลือก"</span>
+                                                                <a href="http://www.youtube.com/profile_redirector/103191741916631069293" target="_blank">
+                                                                    <img src="photo_1.jpg" width="48px" height="48px" alt="" class="Uk vKa"></a>
+                                                                <div class="f5 wy">
+                                                                    <header class="lea">
+                                                                        <h3 class="Mpa">
+                                                                            <a href="#">
+                                                                                <span class="Ub gna">XXXX XXXXX</span>
+                                                                            </a>
+                                                                        </h3>
+                                                                        <span class="Ve">
+                                                                            <span class="PL">
+                                                                                <a href="#" target="_blank" rel="noreferrer" class="o-U-s FI Rg">9 เดือนที่ผ่านมา</a>
+                                                                            </span>
+                                                                            <div class="E4a tKa"></div>
+                                                                        </span>
+                                                                        <div class="hWa D4a"></div>
+                                                                    </header>
+                                                                </div>
+                                                                <div class="C4a a2"></div>
+                                                                <div class="pf Al">
+                                                                    <div class="Xx xJ">
+                                                                        <div class="Ig At dn">
+                                                                            <div class="Bt Pm" style="max-height: 68px;">
+                                                                                <div class="Ct">
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span role="button" class="d-s Yv on  gj" tabindex="0">
+                                                                                อ่านเพิ่มเติม (99 บรรทัด)
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="REa Sea">
+                                                                    <div tabindex="0" role="button" class="RN g8b">
+                                                                        <span class="uPc bmd">99</span>
+                                                                        <img class="SQb MJa" src="//ssl.gstatic.com/s2/oz/images/cleardot.gif"></div>
+                                                                    <div class="RN f8b">
+                                                                        <img class="RQb LJa" src="//ssl.gstatic.com/s2/oz/images/cleardot.gif"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
+                                                    <div class="ju">
+                                                        <div class="ki">
+                                                            <div class="ve oba HPa">
+                                                                <span role="button" class="d-s xw if" title="เมนูตัวเลือก"</span>
+                                                                <a href="http://www.youtube.com/profile_redirector/103191741916631069293" target="_blank">
+                                                                    <img src="photo_1.jpg" width="48px" height="48px" alt="" class="Uk vKa"></a>
+                                                                <div class="f5 wy">
+                                                                    <header class="lea">
+                                                                        <h3 class="Mpa">
+                                                                            <a href="#">
+                                                                                <span class="Ub gna">XXXX XXXXX</span>
+                                                                            </a>
+                                                                        </h3>
+                                                                        <span class="Ve">
+                                                                            <span class="PL">
+                                                                                <a href="#" target="_blank" rel="noreferrer" class="o-U-s FI Rg">9 เดือนที่ผ่านมา</a>
+                                                                            </span>
+                                                                            <div class="E4a tKa"></div>
+                                                                        </span>
+                                                                        <div class="hWa D4a"></div>
+                                                                    </header>
+                                                                </div>
+                                                                <div class="C4a a2"></div>
+                                                                <div class="pf Al">
+                                                                    <div class="Xx xJ">
+                                                                        <div class="Ig At dn">
+                                                                            <div class="Bt Pm" style="max-height: 68px;">
+                                                                                <div class="Ct">
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+                                                                                </div>
+                                                                            </div>
+                                                                            <span role="button" class="d-s Yv on  gj" tabindex="0">
+                                                                                อ่านเพิ่มเติม (99 บรรทัด)
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="REa Sea">
+                                                                    <div tabindex="0" role="button" class="RN g8b">
+                                                                        <span class="uPc bmd">99</span>
+                                                                        <img class="SQb MJa" src="//ssl.gstatic.com/s2/oz/images/cleardot.gif"></div>
+                                                                    <div class="RN f8b">
+                                                                        <img class="RQb LJa" src="//ssl.gstatic.com/s2/oz/images/cleardot.gif"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="watch7-sidebar" class="watch-sidebar">
+                                        <div id="watch7-sidebar-contents" class="watch-sidebar-gutter yt-card yt-card-has-padding yt-uix-expander yt-uix-expander-collapsed">
+                                            <div id="watch7-sidebar-modules">              
+                                                <div class="watch-sidebar-section">
+                                                    <div class="autoplay-bar">
+                                                        <div class="checkbox-on-off">
+                                                            เล่นอัตโนมัติ
+                                                            <span class="yt-uix-hovercard">
+                                                                <span class="autoplay-info-icon yt-uix-button-opacity yt-uix-hovercard-target yt-sprite"></span>
+                                                            </span>
+                                                            <span class="yt-uix-checkbox-on-off ">
+                                                                <input id="autoplay-checkbox" type="checkbox" >
+                                                                <label for="autoplay-checkbox">
+                                                                    <span class="checked">&nbsp;</span>
+                                                                    <span class="unchecked"></span>
+                                                                    <span class="toggle">&nbsp;</span>
+                                                                </label>
+                                                            </span>
+                                                        </div>
+                                                        <h4 class="watch-sidebar-head">
+                                                            รายการถัดไป
+                                                        </h4> 
+                                                        <div class="watch-sidebar-body">
+                                                            <ul class="video-list">
+                                                                <li class="video-list-item related-list-item ">    
+                                                                    <div class="content-wrapper">
+                                                                        <span dir="ltr" class="title">
+                                                                            XXXXXXXXXXXXXXXXXX
+                                                                        </span>
+                                                                        <span class="accessible-description" id="description-id-358908">
+                                                                            - ความยาว: 9:99:99
+                                                                        </span>
+                                                                        <span class="stat attribution">
+                                                                            <span class="g-hovercard">
+                                                                                โดย <span class="g-hovercard">XXXX XXXX</span>
+                                                                            </span>
+                                                                        </span>
+                                                                        <span class="stat view-count">ดู 9,999,999 ครั้ง</span>
+                                                                    </div>
+                                                                    <div class="thumb-wrapper">
+                                                                        <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related">
+                                                                            <img src="youtube-copyright-claim-jpg.png" width="120" height="90"></span>
+                                                                        <span class="video-time">
+                                                                            9:99:99
+                                                                        </span>
+                                                                        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button yt-uix-tooltip" type="button">  
+                                                                        </button>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="watch-sidebar-section">
+                                                    <hr class="watch-sidebar-separation-line">
+                                                    <div class="watch-sidebar-body">
+                                                        <ul class="video-list">
+                                                            <li class="video-list-item related-list-item ">    
+                                                                <div class="content-wrapper">
+                                                                    <span dir="ltr" class="title">
+                                                                        XXXXXXXXXXXXXXXXXX
+                                                                    </span>
+                                                                    <span class="accessible-description" id="description-id-358908">
+                                                                        - ความยาว: 9:99:99
+                                                                    </span>
+                                                                    <span class="stat attribution">
+                                                                        <span class="g-hovercard">
+                                                                            โดย <span class="g-hovercard">XXXX XXXX</span>
+                                                                        </span>
+                                                                    </span>
+                                                                    <span class="stat view-count">ดู 9,999,999 ครั้ง</span>
+                                                                </div>
+                                                                <div class="thumb-wrapper">
+                                                                    <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related">
+                                                                        <img src="youtube-copyright-claim-jpg.png" width="120" height="90"></span>
+                                                                    <span class="video-time">
+                                                                        9:99:99
+                                                                    </span>
+                                                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button yt-uix-tooltip" type="button">  
+                                                                    </button>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                        <ul class="video-list">
+                                                            <li class="video-list-item related-list-item ">    
+                                                                <div class="content-wrapper">
+                                                                    <span dir="ltr" class="title">
+                                                                        XXXXXXXXXXXXXXXXXX
+                                                                    </span>
+                                                                    <span class="accessible-description" id="description-id-358908">
+                                                                        - ความยาว: 9:99:99
+                                                                    </span>
+                                                                    <span class="stat attribution">
+                                                                        <span class="g-hovercard">
+                                                                            โดย <span class="g-hovercard">XXXX XXXX</span>
+                                                                        </span>
+                                                                    </span>
+                                                                    <span class="stat view-count">ดู 9,999,999 ครั้ง</span>
+                                                                </div>
+                                                                <div class="thumb-wrapper">
+                                                                    <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related">
+                                                                        <img src="youtube-copyright-claim-jpg.png" width="120" height="90"></span>
+                                                                    <span class="video-time">
+                                                                        9:99:99
+                                                                    </span>
+                                                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button yt-uix-tooltip" type="button">  
+                                                                    </button>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                        <ul class="video-list">
+                                                            <li class="video-list-item related-list-item ">    
+                                                                <div class="content-wrapper">
+                                                                    <span dir="ltr" class="title">
+                                                                        XXXXXXXXXXXXXXXXXX
+                                                                    </span>
+                                                                    <span class="accessible-description" id="description-id-358908">
+                                                                        - ความยาว: 9:99:99
+                                                                    </span>
+                                                                    <span class="stat attribution">
+                                                                        <span class="g-hovercard">
+                                                                            โดย <span class="g-hovercard">XXXX XXXX</span>
+                                                                        </span>
+                                                                    </span>
+                                                                    <span class="stat view-count">ดู 9,999,999 ครั้ง</span>
+                                                                </div>
+                                                                <div class="thumb-wrapper">
+                                                                    <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related">
+                                                                        <img src="youtube-copyright-claim-jpg.png" width="120" height="90"></span>
+                                                                    <span class="video-time">
+                                                                        9:99:99
+                                                                    </span>
+                                                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button yt-uix-tooltip" type="button">  
+                                                                    </button>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                        <ul class="video-list">
+                                                            <li class="video-list-item related-list-item ">    
+                                                                <div class="content-wrapper">
+                                                                    <span dir="ltr" class="title">
+                                                                        XXXXXXXXXXXXXXXXXX
+                                                                    </span>
+                                                                    <span class="accessible-description" id="description-id-358908">
+                                                                        - ความยาว: 9:99:99
+                                                                    </span>
+                                                                    <span class="stat attribution">
+                                                                        <span class="g-hovercard">
+                                                                            โดย <span class="g-hovercard">XXXX XXXX</span>
+                                                                        </span>
+                                                                    </span>
+                                                                    <span class="stat view-count">ดู 9,999,999 ครั้ง</span>
+                                                                </div>
+                                                                <div class="thumb-wrapper">
+                                                                    <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related">
+                                                                        <img src="youtube-copyright-claim-jpg.png" width="120" height="90"></span>
+                                                                    <span class="video-time">
+                                                                        9:99:99
+                                                                    </span>
+                                                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button yt-uix-tooltip" type="button">  
+                                                                    </button>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                        <ul class="video-list">
+                                                            <li class="video-list-item related-list-item ">    
+                                                                <div class="content-wrapper">
+                                                                    <span dir="ltr" class="title">
+                                                                        XXXXXXXXXXXXXXXXXX
+                                                                    </span>
+                                                                    <span class="accessible-description" id="description-id-358908">
+                                                                        - ความยาว: 9:99:99
+                                                                    </span>
+                                                                    <span class="stat attribution">
+                                                                        <span class="g-hovercard">
+                                                                            โดย <span class="g-hovercard">XXXX XXXX</span>
+                                                                        </span>
+                                                                    </span>
+                                                                    <span class="stat view-count">ดู 9,999,999 ครั้ง</span>
+                                                                </div>
+                                                                <div class="thumb-wrapper">
+                                                                    <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related">
+                                                                        <img src="youtube-copyright-claim-jpg.png" width="120" height="90"></span>
+                                                                    <span class="video-time">
+                                                                        9:99:99
+                                                                    </span>
+                                                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button yt-uix-tooltip" type="button">  
+                                                                    </button>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                        <ul class="video-list">
+                                                            <li class="video-list-item related-list-item ">    
+                                                                <div class="content-wrapper">
+                                                                    <span dir="ltr" class="title">
+                                                                        XXXXXXXXXXXXXXXXXX
+                                                                    </span>
+                                                                    <span class="accessible-description" id="description-id-358908">
+                                                                        - ความยาว: 9:99:99
+                                                                    </span>
+                                                                    <span class="stat attribution">
+                                                                        <span class="g-hovercard">
+                                                                            โดย <span class="g-hovercard">XXXX XXXX</span>
+                                                                        </span>
+                                                                    </span>
+                                                                    <span class="stat view-count">ดู 9,999,999 ครั้ง</span>
+                                                                </div>
+                                                                <div class="thumb-wrapper">
+                                                                    <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related">
+                                                                        <img src="youtube-copyright-claim-jpg.png" width="120" height="90"></span>
+                                                                    <span class="video-time">
+                                                                        9:99:99
+                                                                    </span>
+                                                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button yt-uix-tooltip" type="button">  
+                                                                    </button>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                        <ul class="video-list">
+                                                            <li class="video-list-item related-list-item ">    
+                                                                <div class="content-wrapper">
+                                                                    <span dir="ltr" class="title">
+                                                                        XXXXXXXXXXXXXXXXXX
+                                                                    </span>
+                                                                    <span class="accessible-description" id="description-id-358908">
+                                                                        - ความยาว: 9:99:99
+                                                                    </span>
+                                                                    <span class="stat attribution">
+                                                                        <span class="g-hovercard">
+                                                                            โดย <span class="g-hovercard">XXXX XXXX</span>
+                                                                        </span>
+                                                                    </span>
+                                                                    <span class="stat view-count">ดู 9,999,999 ครั้ง</span>
+                                                                </div>
+                                                                <div class="thumb-wrapper">
+                                                                    <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related">
+                                                                        <img src="youtube-copyright-claim-jpg.png" width="120" height="90"></span>
+                                                                    <span class="video-time">
+                                                                        9:99:99
+                                                                    </span>
+                                                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button yt-uix-tooltip" type="button">  
+                                                                    </button>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                        <ul class="video-list">
+                                                            <li class="video-list-item related-list-item ">    
+                                                                <div class="content-wrapper">
+                                                                    <span dir="ltr" class="title">
+                                                                        XXXXXXXXXXXXXXXXXX
+                                                                    </span>
+                                                                    <span class="accessible-description" id="description-id-358908">
+                                                                        - ความยาว: 9:99:99
+                                                                    </span>
+                                                                    <span class="stat attribution">
+                                                                        <span class="g-hovercard">
+                                                                            โดย <span class="g-hovercard">XXXX XXXX</span>
+                                                                        </span>
+                                                                    </span>
+                                                                    <span class="stat view-count">ดู 9,999,999 ครั้ง</span>
+                                                                </div>
+                                                                <div class="thumb-wrapper">
+                                                                    <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related">
+                                                                        <img src="youtube-copyright-claim-jpg.png" width="120" height="90"></span>
+                                                                    <span class="video-time">
+                                                                        9:99:99
+                                                                    </span>
+                                                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button yt-uix-tooltip" type="button">  
+                                                                    </button>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                        <ul class="video-list">
+                                                            <li class="video-list-item related-list-item ">    
+                                                                <div class="content-wrapper">
+                                                                    <span dir="ltr" class="title">
+                                                                        XXXXXXXXXXXXXXXXXX
+                                                                    </span>
+                                                                    <span class="accessible-description" id="description-id-358908">
+                                                                        - ความยาว: 9:99:99
+                                                                    </span>
+                                                                    <span class="stat attribution">
+                                                                        <span class="g-hovercard">
+                                                                            โดย <span class="g-hovercard">XXXX XXXX</span>
+                                                                        </span>
+                                                                    </span>
+                                                                    <span class="stat view-count">ดู 9,999,999 ครั้ง</span>
+                                                                </div>
+                                                                <div class="thumb-wrapper">
+                                                                    <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related">
+                                                                        <img src="youtube-copyright-claim-jpg.png" width="120" height="90"></span>
+                                                                    <span class="video-time">
+                                                                        9:99:99
+                                                                    </span>
+                                                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button yt-uix-tooltip" type="button">  
+                                                                    </button>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                    </div>   
+                                                </div> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer-container" class="yt-base-gutter">
+            <div id="footer">
+                <div id="footer-main">
+                    <div id="footer-logo">
+                        <span class="footer-logo-icon yt-sprite"></span>
+                    </div>  
+                    <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+                        <li>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" id="yt-picker-language-button">
+                                <span class="yt-uix-button-icon-wrapper">
+                                    <span class="yt-uix-button-icon yt-uix-button-icon-footer-language yt-sprite">
+                                    </span>
+                                </span>
+                                <span class="yt-uix-button-content"><span class="yt-picker-button-label">ภาษา:</span>ไทย</span>
+                                <span class="yt-uix-button-arrow yt-sprite"></span>
+                            </button>
+                        </li>
+                        <li>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" id="yt-picker-country-button">
+                                <span class="yt-uix-button-content">
+                                    <span class="yt-picker-button-label">ประเทศ:</span>ประเทศไทย</span>
+                                <span class="yt-uix-button-arrow yt-sprite"></span>
+                            </button>
+                        </li>
+                        <li>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" id="yt-picker-safetymode-button">
+                                <span class="yt-uix-button-content">  
+                                    <span class="yt-picker-button-label">ความปลอดภัย:</span>ปิด</span>
+                                <span class="yt-uix-button-arrow yt-sprite"></span>
+                            </button>
+                        </li>
+                    </ul>
+                    <a href="#" class="yt-uix-button footer-history yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon">
+                        <span class="yt-uix-button-icon-wrapper">
+                            <span class="yt-uix-button-icon yt-uix-button-icon-footer-history yt-sprite"></span>
+                        </span>
+                        <span class="yt-uix-button-content">ประวัติการเข้าชม</span>
+                    </a>      
+                    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon yt-uix-button-reverse yt-google-help-link inq-no-click " id="google-help">
+                        <span class="yt-uix-button-icon-wrapper">
+                            <span class="yt-uix-button-icon yt-uix-button-icon-questionmark yt-sprite"></span>      
+                        </span>
+                        <span class="yt-uix-button-content">ความช่วยเหลือ
+                        </span>
+                    </button>
+                </div>
+                <div id="footer-links">
+                    <ul id="footer-links-primary">  
+                        <li><a href="#">เกี่ยวกับ</a></li>
+                        <li><a href="#">ข่าว &amp; บล็อก</a></li>
+                        <li><a href="#">ลิขสิทธิ์</a></li>
+                        <li><a href="#">ผู้สร้าง &amp; พาร์ทเนอร์</a></li>
+                        <li><a href="#">การโฆษณา</a></li>
+                        <li><a href="#">นักพัฒนาซอฟต์แวร์</a></li>
+                        <li><a href="#">+YouTube</a></li>
+                    </ul>
+                    <ul id="footer-links-secondary">  
+                        <li><a href="#">ข้อกำหนด</a></li>
+                        <li><a href="#">ความเป็นส่วนตัว</a></li>
+                        <li><a href="#">นโยบายและความปลอดภัย</a></li>
+                        <li><a href="#">ส่งความคิดเห็น</a></li>
+                        <li><a href="#">ลองสิ่งใหม่!</a></li>
+                        <li></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1V4U1Rgis9a-xLcDAsRjUl6kuw8YLsKlR_Qv_evgOAw8DTce0ojPKABxkkbsHT_lkG8KVhzD5BBKvtkM4-CUZl7o8ys4rozYcYhXJl82X3fwX6qfTp8_VVeefZUXYrmMrQWZ4keE0Vc0OuZ5K3s0fiZ0jbVFF9NcJmzIx3zaO8mIJ72tm46of1Ijh/s2532/IMG_0196.png
 
 lxdPHhOQA3I / BAGA Q4NT MBSV
 
