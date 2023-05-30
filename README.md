@@ -4,6 +4,246 @@ osition:relative;top:-2px}.gb_Ca{color:black;min-width:320px;position:relative;-
 
 da.ta:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMLAggJCA0ECAgIBwgICAgIBQsICAgNCAkJCAgICAgICwgICAgICAgICAsKDQgIEAoKCAoXGA8IGAgLCggBAwQEBgUGCgYGChANCw0NDQ4QDRIPDw4QDRANDQ8QDQ8NDQ0NDw8OEA0NDw0QDQ4ODQ8ODg0PDQ8ODhAPDhANDf/AABEIAEgASAMBEQACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAAAwUGBwI
 
+7A A3 66 62 44 5E 2B 69 06 4F C4 86 A4 E7 66 62
+54 1B 59 2F BF 2A D0 4C BE 62 E2 74 71 A7 66 00                                                                                                ^`````````````````````````````````````````````````````````````````````````````````````````````````^`^``````````````````````````````````````````````````````>.~^♠^.~.~^♠^~..^^.Rainwizzard.^^.>^.search.search.^.^spades^.                                    
+A4 E5 51 3F E2 F1 BF 5E 77 03 E2 39 49 B7 28 FB
+CE CB 81 57 33 B4 3D EE AC F8 31 E0 9F 3D 36 F9
+F2 10 B1 A7 1F 7F 32 D0 84 2C 58 08 2B C0 D4 41
+31 CA 2A 86 DD ED 96 9D 34 85 FB A1 F9 F5 60 F4
+A4 0D FD 01 85 72 B9 9E 6E 77 47 63 70 5F 6C 2C
+6A CC D1 B8 C5 85 66 AB 1B F0 67 50 38 57 BA 18
+6C DA 21 20 00 04 6C 7C 31 39 26 F3 9E D1 4D 0F
+4D E3 60 5D 0F 28 A3 B7 E5 57 B5 E8 13 26 91 62
+C5 70 6C 42 25 2E 0E AA F2 41 EC 16 AD F4 F6 98
+33 84 0E 96 E3 80 A5 35 26 8B E9 BC B1 20 AF 3A
+81 FB F0 97 F0 35 87 8A 87 27 2F 4F 24 FF F3 22
+DA 45 E9 4D 9A 4C 6E B5 EB 5F DA 93 48 92 D2 E0^`````````````````````````````````````````````````````````````````````````````````````````````````^`^``````````````````````````````````````````````````````>.~^♠^.~.~^♠^~..^^.Rainwizzard.^^.>^.search.search.^.^spades^.
+E2 3E DC A9 E2 BA E4 C2 29 C9 F6 F7 01 7D 60 2F
+     4E 84 DE BE 35 FF 8A 93 85 17 4E 09 45,feed back
+- May 23, 2023
+Send feedback to Google
+Videos of Google Chat First Program Sebastian
+Describe your feedback
+​
+_{https://mail.google.com/chat/u/1/#chat/u/1/https://www.bing.com/search?q=Google%20Chat%0Ahttps%3A%2F%2Fchat.google.com%2F%3Fauthuser%3D1&formhttps://mail.google.com/chat/u/1/#chat/welcome_reul"=IPRV10​
+Tell us what prompted this feedback...
+Please don’t include any sensitive information
+A screenshot will help us better understand your feedback. (optional)
+Capture screenshot
+Some account and system information may be sent to Google. We will use it to fix problems and improve our services, subject to our Privacy Policy and Terms of Service. We may email you for more information or updates. Go to Legal Help to ask for content changes for legal reasons.
+Send
+A screenshot will help us better understand your feedback. (optional)
+Capture screenshot
+Comments
+Popular posts from this blog
+Papa.Lega.N.B
+- November 14, 2022
+
+< [https://www.rainwizzard.blogspot.com] ~^♠^~¹♤³~^♠^~Vader Equation~^♠^~¹♤³^♠^~~^♤^~Rainwizzard~^♤^~ ~^♠^~¹♤³~^♠^~Vader Equation~^♠^~¹♤³^♠^~~^♤^~Rainwizzard~^♤^~ ~^♠^~¹♤³~^♠^~Vader Equation~^♠^~¹♤³^♠^~~^♤^~Rainwizzard~^♤^~ ~^♠^~¹♤³~^♠^~Vader Equation~^♠^~¹♤³^♠^~~^♤^~Rainwizzard~^♤^~ .~^♠^.¹♤³.^♠^~.~^♠^.¹♤³.^♠^~.Vader Equation.~^♠^.¹♤³.^♠^~. ¹♤³ ~¹♤³~¹♤³^~^♠^.¹♤³.^♠^~^¹♤³~ ~¹♤³^~^♠^.¹♤³.^♠^~^¹♤³~ ~¹♤³^~^♠^.¹♤³.^♠^~^¹♤³~~ ~^♠^~¹♤³~^♠^~Vader Equation~^♠^~¹♤³^♠^~~^♤^~Rainwizzard~^♤^~ ~^♠^~¹♤³~^♠^~Vader Equation~^♠^~¹♤³^♠^~~^♤^~Rainwizzard~^♤^~ { }4-.~ [%].^.link][%]http:.¹♤³.search.¹♤³.org.¹♤³1>pm.me°◇°~★♠︎★°◇°undefined°◇°★♠︎★~°◇°+~+°◇°~★♠︎★°◇°.@.•1^800^555^9999^°◇°★♠︎★~°◇°~#>5-1{ } ¹♤³ ~¹♤³~¹♤³^~^♠^.¹♤³.^♠^~^¹♤³~ ~¹♤³^~^♠^.¹♤³.^♠^~^¹♤³~ ~¹♤³^~^♠^.¹♤³.^♠^~^¹♤³~~ ~^♠^~¹♤³~^♠^~Vader Equation~^♠^~¹♤³^♠^~~^♤^~Rainwizzard~^♤^~ ~^♠^~¹♤³~^♠^~Vader Equation~^♠^~¹♤³^♠^~~^♤^~Rainwizzard~^♤^~ ^♤^°◇°~^♤^~^♠^href="http://~%5E%E2%99%A4%5E~">°◇°~★♠︎★°◇°undef
+READ MORE
+youtube.com/@Papa.Lega.N.B
+- October 31, 2022
+
+V.^.{https://support.google.com/accounts/answer/12225976#other-places&zippy=%2Cother-places-audio-recordings-may-be-saved}.^.<^< ..<[•https://www.reddit.com/r/rainwizzard_spade/comments/xwitmt/wwwrainwizzardblogspotcom/•] ...https://youtu.be/PfZ3yq36TTk ...._\_https://m.youtube.com/#voice-search//wa.me/message/XBVHH4HRHEKWK1
+READ MORE
+@Papa.Lega.N.B
+
+,,.                      https://www.youtube.com/channel/UC_xF29lLcIFGUJMk1PMFg1Q
+https://www.youtube.com/channel/UC_xF29lLcIFGUJMk1PMFg1Q{
+  "ns": "yt",
+  "el": "detailpage",
+  "cpn": "0VOdZfpOyvRPt-NO",
+  "ver": 2,
+  "cmt": "36.202",
+  "fmt": "247",
+  "fs": "0",
+  "rt": "19.761",
+  "euri": "",
+  "lact": 1,
+  "cl": "531949819",
+  "mos": 0,
+  "state": "8",
+  "volume": 95,
+  "subscribed": "1",
+  "cbrand": "google",
+  "cbr": "Chrome",
+  "cbrver": "113.0.0.0",
+  "c": "WEB",
+  "cver": "2.20230517.01.00",
+  "cplayer": "UNIPLAYER",
+  "cmodel": "chromebook",
+  "cos": "CrOS",
+  "cosver": "14541.0.0",
+  "cplatform": "DESKTOP",
+  "hl": "en_GB",
+  "cr": "CA",
+  "len": "33                                                                   "fexp": "23776346,23983296,23986026,24004644,24007246,24080738,24135310,24219382,24255165,24363113,24405913,24415864,24433679,24437577,24439361,24451437,24514873,24516157,24532855,24550458,24556992,24559644,24698915,39323074,39323713,51000011",
+  "feature": "g-high-cpw",
+  "afmt": "251",
+  "muted": "0",
+  "conn": "3",
+  "cc": ".en.uYU-mmqFLq8",
+  "docid": "PfZ3yq36TTk",
+  "ei": "mo1lZPXdDc2E8wS30qGoBg",
+  "plid": "AAX77pPwHYs4F9DZ",
+  "referrer": "https://www.youtube.com/feed/library",
+  "sdetail": "p:/feed/library",
+  "sourceid": "y",
+  "of": "2dVkz7e1rF9t_XNU6wGWIw",
+  "vm": "CAEQABgEOjJBQ00wQ1lnYVRmZ0w0a1BtQVI2QVZWRjVIN3Z4UXpNaWRsN3lVT0Fjek4xLUhkQURKZ2JaQVBta0tETGdqTHdvT05NYjBZQ3JDenJOUHlIU003TGZCbDRiS1NvWkIyVVdaZldfWDdDdjlVVVN4QnNnbFBtLU5Ba1kybGp5VUFvRUlJUzdqczF5X183d1ZRaAE",
+  "vct": "36.202",
+  "vd": "335.041",
+  "vpl": "19.000-36.202",
+  "vbu": "15.200-90.001",
+  "vpa": "0",
+  "vsk": "0",
+  "ven": "0",
+  "vpr": "1",
+  "vrs": "4",
+  "vns": "2",
+  "vec": "null",
+  "vemsg": "",
+  "vvol": "0.95",
+  "vdom": "1",
+  "vsrc": "1",
+  "vw": "713",
+  "vh": "401",
+  "lct": "36.015",
+  "lsk": false,
+  "lmf": false,
+  "lbw": "1418979.747",
+  "lhd": "0.036",
+  "lst": "0.000",
+  "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_segsrc_reslicegetRequestInfoForRange_seg_8_range_833094-932763_time_80.0-90.0_off_0_len_99670_end_1",
+  "lva": "itag_247_type_3_src_reslicegetRequestInfoForRange_segsrc_reslicegetRequestInfoForRange_seg_18_range_1248284-1317811_time_91.2-96.3_off_0_len_69528_end_1",
+  "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_getRequestInfoForRange_seg_8_range_833094-932763_time_80.0-90.0_off_0_len_99670_end_1",
+  "lvr": "itag_247_type_3_src_getRequestInfoForRange_segsrc_getRequestInfoForRange_seg_18_range_1248284-1317811_time_91.2-96.3_off_0_len_69528_end_1",
+  "laq": "0",
+  "lvq": "0",
+  "lab": "10.001-90.001",
+  "lvb": "15.200-96.266",
+  "ismb": 20780000,
+  "relative_loudness": "-6.560",
+  "optimal_format": "720s",
+  "user_qual": 0,
+  "release_version": "youtube.player.web_20230514_00_RC00",
+  "debug_videoId": "PfZ3yq36TTk",
+  "0sz": "false",
+  "op": "",
+  "yof": "false",
+  "dis": "",
+  "gpu": "Mesa_Intel(R)_UHD_Graphics_(JSL)",
+  "debug_playbackQuality": "hd720",
+  "debug_date": "Wed May 17 2023 23:30:06 GMT-0300 (Atlantic Daylight Time)"
+}https://youtu.be/PfZ3yq36TTk?t=73
+<iframe width="713" height="401" src="https://www.youtube.com/embed/PfZ3yq36TTk" title="Rainwizzard.com Live Stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{
+  "ns": "yt",
+  "el": "detailpage",
+  "cpn": "0VOdZfpOyvRPt-NO",
+  "ver": 2,
+  "cmt": "148.467",
+  "fmt": "247",
+  "fs": "0",
+  "rt": "132.082",
+  "euri": "",
+  "lact": 14,
+  "cl": "531949819",
+  "mos": 0,
+  "state": "8",
+  "volume": 95,
+  "subscribed": "1",
+  "cbrand": "google",
+  "cbr": "Chrome",
+  "cbrver": "113.0.0.0",
+  "c": "WEB",
+  "cver": "2.20230517.01.00",
+  "cplayer": "UNIPLAYER",
+  "cmodel": "chromebook",
+  "cos": "CrOS",
+  "cosver": "14541.0.0",
+  "cplatform": "DESKTOP",
+  "hl": "en_GB",
+  "cr": "CA",
+  "len": "335.041",
+  "fexp": "23776346,23983296,23986026,24004644,24007246,24080738,24135310,24219382,24255165,24363113,24405913,24415864,24433679,24437577,24439361,24451437,24514873,24516157,24532855,24550458,24556992,24559644,24698915,39323074,39323713,51000011",
+  "feature": "g-high-cpw",
+  "afmt": "251",
+  "muted": "0",
+  "conn": "3",
+  "cc": ".en.uYU-mmqFLq8",
+  "docid": "PfZ3yq36TTk",
+  "ei": "mo1lZPXdDc2E8wS30qGoBg",
+  "plid": "AAX77pPwHYs4F9DZ",
+  "referrer": "https://www.youtube.com/feed/library",
+  "sdetail": "p:/feed/library",
+  "sourceid": "y",
+  "of": "2dVkz7e1rF9t_XNU6wGWIw",
+  "vm": "CAEQABgEOjJBQ00wQ1lnYVRmZ0w0a1BtQVI2QVZWRjVIN3Z4UXpNaWRsN3lVT0Fjek4xLUhkQURKZ2JaQVBta0tETGdqTHdvT05NYjBZQ3JDenJOUHlIU003TGZCbDRiS1NvWkIyVVdaZldfWDdDdjlVVVN4QnNnbFBtLU5Ba1kybGp5VUFvRUlJUzdqczF5X183d1ZRaAE",
+  "vct": "148.467",
+  "vd": "335.041",
+  "vpl": "19.000-148.467",
+  "vbu": "15.200-268.533",
+  "vpa": "0",
+  "vsk": "0",
+  "ven": "0",
+  "vpr": "1",
+  "vrs": "4",
+  "vns": "2",
+  "vec": "null",
+  "vemsg": "",
+  "vvol": "0.95",
+  "vdom": "1",
+  "vsrc": "1",
+  "vw": "713",
+  "vh": "401",
+  "lct": "148.319",
+  "lsk": false,
+  "lmf": false,
+  "lbw": "2722794.582",
+  "lhd": "0.032",
+  "lst": "0.000",
+  "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_segsrc_reslicegetRequestInfoForRange_seg_26_range_3215003-3355004_time_260.0-270.0_off_0_len_140002_end_1",
+  "lva": "itag_247_type_3_src_reslicegetRequestInfoForRange_segsrc_reslicegetRequestInfoForRange_seg_52_range_3686248-3760744_time_263.5-268.5_off_0_len_74497_end_1",
+  "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_getRequestInfoForRange_seg_26_range_3215003-3355004_time_260.0-270.0_off_0_len_140002_end_1",
+  "lvr": "itag_247_type_3_src_getRequestInfoForRange_segsrc_getRequestInfoForRange_seg_53_range_3760745-3837169_time_268.5-273.6_off_0_len_76425_end_1",
+  "laq": "0",
+  "lvq": "76425",
+  "lab": "10.001-270.001",
+  "lvb": "15.200-268.533",
+  "ismb": 20780000,
+  "leader": 1,
+  "relative_loudness": "-6.560",
+  "optimal_format": "720s",
+  "user_qual": 0,
+  "release_version": "youtube.player.web_20230514_00_RC00",
+  "debug_videoId": "PfZ3yq36TTk",
+  "0sz": "false",
+  "op": "",
+  "yof": "false",
+  "dis": "",
+  "gpu": "Mesa_Intel(R)_UHD_Graphics_(JSL)",
+  "debug_playbackQuality": "hd720",
+  "debug_date": "Wed May 17 2023 23:31:58 GMT-0300 (Atlantic Daylight Time)"
+}https://www.youtube.com/channel/UC_xF29lLcIFGUJMk1PMFg1Q
+
+7A A3 66 62 44 5E 2B 69 06 4F C4 86 A4 E7 66 62
+54 1B 59 2F BF 2A D0 4C BE 62 E2 74 71 A7 66 00^`````````````````````````````````````````````````````````````````````````````````````````````````^`^``````````````````````````````````````````````````````>.~^♠^.~.~^♠^~..^^.Rainwizzard.^^.>^.search.search.^.^spades^.
+A4 E5 51 3F E2 F1 BF 5E 77 03 E2 39 49 B7 28 FB
+CE CB 81 57 33 B4 3D EE AC F8 31 E0 9F 3D 36 F9
+F2 10 B1 A7 1F 7F 32 D0 84 2C 58 08 2B C0 D4 41
+31 CA 2A 86 DD ED 96 9D 34 85 FB A1 F9 F5 60 F4
+A4 0D FD 01 85 72 B9 9E 6E 77 47 63 70 5F 6C 2C
+6A CC D1 B8 C5 85 66 AB 1B F0 67 50 38 57 BA 18
+6C DA 21 20 00 04 6C 7C 31 39 26 F3 9E D1 4D 0F
+4D E3 60 5D 0F 28 A3 B7 E5 57 B5 E8 13 26 91 62
+C5 70 6C 42 25 2E 0E AA F2 41 EC 16 AD F4 F6 98
+33 84 0E 96 E3 80 A5 35 26 8B E9 BC B1 20 AF 3A
+81 FB F0 97 F0 35 87 8A 87 27 2F 4F 24 FF F3 22
+DA 45 E9 4D 9A 4C 6E B5 EB 5F DA 93 48 92 D2 E0
+E2 3E DC A9 E2 BA E4 C2 29 C9 F6 F7 01 7D 60 2F^`````````````````````````````````````````````````````````````````````````````````````````````````^`^``````````````````````````````````````````````````````>.~^♠^.~.~^♠^~..^^.Rainwizzard.^^.>^.search.search.^.^spades^.https://www.facebook.com/reel/1410455402857214/?notif_id=1685412924665668&notif_t=feedback_reaction_generic&ref=notif
+4E 84 DE BE 35 FF 8A 93 85 17 4E 09 45 D7 62 D0
+
+
 
 
 
