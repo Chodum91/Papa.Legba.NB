@@ -3,8 +3,11 @@ meet.google.com/ynu-otxi-ygr?pli=~^♠︎^.Rainwizzard.^♠︎^~.Phone,1ng="en-G
 osition:relative;top:-2px}.gb_Ca{color:black;min-width:320px;position:relative;-webkit-transition:box-shadow 250ms;transition:box-shadow 250ms}.gb_Ca.gb_Nc{min-width:240px}.gb_Ca.gb_Nd .gb_Od{display:none}.gb_Ca.gb_Nd .gb_Pd{height:56px}header.gb_Ca{display:block}.gb_Ca svg{fill:currentColor}.gb_Qd{position:fixed;top:0;width:100%}.gb_Rd{-webkit-box-shadow:0px 4px 5px 0px rgba(0,0,0,.14),0px 1px 10px 0px rgba(0,0,0,.12),0px 2px 4px -1px rgba(0,0,0,.2);box-shadow:0px 4px 5px 0px rgba(0,0,0,.14),0px 1px 10px 0px rgba(0,0,0,.12
 
 da.ta:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMLAggJCA0ECAgIBwgICAgIBQsICAgNCAkJCAgICAgICwgICAgICAgICAsKDQgIEAoKCAoXGA8IGAgLCggBAwQEBgUGCgYGChANCw0NDQ4QDRIPDw4QDRANDQ8QDQ8NDQ0NDw8OEA0NDw0QDQ4ODQ8ODg0PDQ8ODhAPDhANDf/AABEIAEgASAMBEQACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAAAwUGBwI
-
-
+value = 123;
+Console.WriteLine(value.ToString("00000"));
+Console.WriteLine(String.Format("{0:00000}", value));
+value = 1.2;
+Console.WriteLine(value.ToString("0.00", CultureInfo.InvariantCulture));...
 
 
 
