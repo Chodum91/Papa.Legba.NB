@@ -3,8 +3,10 @@ meet.google.com/ynu-otxi-ygr?pli=~^♠︎^.Rainwizzard.^♠︎^~.Phone,1ng="en-G
 osition:relative;top:-2px}.gb_Ca{color:black;min-width:320px;position:relative;-webkit-transition:box-shadow 250ms;transition:box-shadow 250ms}.gb_Ca.gb_Nc{min-width:240px}.gb_Ca.gb_Nd .gb_Od{display:none}.gb_Ca.gb_Nd .gb_Pd{height:56px}header.gb_Ca{display:block}.gb_Ca svg{fill:currentColor}.gb_Qd{position:fixed;top:0;width:100%}.gb_Rd{-webkit-box-shadow:0px 4px 5px 0px rgba(0,0,0,.14),0px 1px 10px 0px rgba(0,0,0,.12),0px 2px 4px -1px rgba(0,0,0,.2);box-shadow:0px 4px 5px 0px rgba(0,0,0,.14),0px 1px 10px 0px rgba(0,0,0,.12
 
 da.ta:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMLAggJCA0ECAgIBwgICAgIBQsICAgNCAkJCAgICAgICwgICAgICAgICAsKDQgIEAoKCAoXGA8IGAgLCggBAwQEBgUGCgYGChANCw0NDQ4QDRIPDw4QDRANDQ8QDQ8NDQ0NDw8OEA0NDw0QDQ4ODQ8ODg0PDQ8ODhAPDhANDf/AABEIAEgASAMBEQACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAAAwUGBwI
-
-
+[
+](https://www.facebook.com/photo/?fbid=146970154970695&set=a.102204832780561)
+[
+](https://scontent.fyqm1-1.fna.fbcdn.net/v/t39.30808-6/357396685_210046955329681_5938252909402748745_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=chx1njLaOVwAX83-hKO&_nc_ht=scontent.fyqm1-1.fna&oh=00_AfCQG3SR07jjYOEOIOt3jd3kJGb0O68HJVstBoJG6WWR3Q&oe=64A67218)
 
 
 
